@@ -1,0 +1,61 @@
+﻿
+@using ECommerce.Entity
+@model IEnumerable<OrderDetail>
+@{
+    ViewBag.Title = "DetailList";
+    Layout = "~/Views/Shared1/_MainLayout.cshtml";
+}
+
+<div id="content" class="col-sm-9">
+
+    <h1 class="page-title">
+        My Cart
+    </h1>
+    <form action="~/Payment/Pay" method="get" enctype="multipart/form-data">
+        <div class="table-responsive">
+            <table class="table table-bordered shopping-cart">
+                <thead>
+                    <tr>
+                        <td class="text-center">Image</td>
+                        <td class="text-left">Product Name</td>
+                        <td class="text-right">Unit Price</td>
+                        <td class="text-left">Quantity</td>
+                        <td class="text-right">Total Price</td>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td class="text-center"> <a href="#"><img src="~/Upload/@item.Product.Photo" alt="Reprehenderit Aliquam" title="@item.Product.ProductName" class="img-thumbnail"></a> </td>
+                            <td class="text-left"><a href="#">@item.Product.ProductName</a></td>
+                            <td class="text-left">@item.Price</td>
+                            <td class="text-left">
+                                <div class="input-group btn-block" style="max-width: 200px;">
+                                    <div class="input-group btn-block quantity">
+                                        <input type="text" name="quantity" value="@item.Quantity" size="1" class="form-control">
+                                        <span class="input-group-btn">
+                                            <a href="~/Order/Delete/@item.ProductId" title="" class="btn btn-danger"><i class="fa fa-times-circle"></i></a>
+                                        </span>
+                                    </div>
+                                </div>
+                            </td>
+                            @{
+                                decimal? totalPrice = item.Quantity * item.Price;
+                            }
+                            <td class="text-right">@totalPrice</td>
+                        </tr>
+                    }
+
+                </tbody>
+
+            </table>
+        </div>
+        <div class="buttons clearfix">
+            <div class="pull-left"><a href="~/Payment/Pay" class="btn btn-default">Payment</a></div>
+        </div>
+
+    </form>
+
+   
+</div>

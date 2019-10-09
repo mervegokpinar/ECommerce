@@ -1,0 +1,43 @@
+﻿@using ECommerce.Sample.Models.VM;
+@model LoginVM
+
+@{
+    ViewBag.Title = "SignIn";
+    Layout = "~/Views/Shared1/_MainLayout.cshtml";
+}
+
+<div class="well">
+    <h3>Sign In</h3>
+    <div class="alert alert-info" role="alert">
+        @TempData["Message"]
+        @ViewBag.Unmatched
+        @TempData["Message2"]
+    </div>
+    @using (Html.BeginForm("SignIn", "Login", FormMethod.Post, new { enctype = "multipart/form-data" }))
+    {
+
+        <div class="form-row">
+            <div class="form-group col mb-2">
+                <label class="text-color-light-2" for="Email">Email</label>
+                @Html.TextBoxFor(x => x.Email, new { @placeholder = "Please enter your Email", @class = "form-control" })
+            </div>
+        </div>
+        <div class="form-row">
+            <div class="form-group col">
+                <label class="text-color-light-2" for="Password">Password</label>
+                @Html.PasswordFor(x => x.Password, new { @placeholder = "Please enter your password", @class = "form-control" })
+            </div>
+        </div>
+        @Html.ValidationMessageFor(x => x.Email)
+        @Html.ValidationMessageFor(x => x.Password)
+        
+       
+        <input type="submit" value="Gönder" />
+    }
+
+</div>
+
+
+
+
+

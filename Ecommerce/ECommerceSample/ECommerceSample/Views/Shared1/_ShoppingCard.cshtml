@@ -1,0 +1,70 @@
+﻿@using ECommerce.Entity
+@using ECommerce.Repository
+
+@{
+    Order ord = (Order)Session["Order"];
+    int? qty = 0;
+    decimal? TotalPrice = 0;
+    if (ord != null)
+    {
+        <div class="header-cart">
+            <div id="cart" class="btn-group btn-block open">
+                <span class="cart_heading" data-toggle="dropdown" aria-expanded="true">My Cart</span>
+                @foreach (OrderDetail item in ord.OrderDetails)
+                {
+                    qty += item.Quantity;
+                    TotalPrice += item.Price;
+
+                }
+                <button type="button" data-toggle="dropdown" data-loading-text="Loading..." class="btn btn-inverse btn-block btn-lg dropdown-toggle"><i class="fa fa-shopping-cart"></i> <span id="cart-total">@qty item - ₺@TotalPrice</span></button>
+                <ul class="dropdown-menu pull-right cart-menu" style="display: none;">
+                    @foreach (OrderDetail item in ord.OrderDetails)
+                    {
+
+
+                        <li>
+
+                            <table class="table table-striped">
+                                <tbody>
+                                    <tr>
+                                        <td class="text-center"> 
+                                        <a href="~/Home/Detail/@item.ProductId"><img src="~/Upload/@item.Product.Photo" alt="" title="" class="img-thumbnail" style="max-width:50px" ></a>
+                                        </td>
+                                        <td class="text-left"><a href="~/Home/Detail/@item.ProductId"> @item.Product.ProductName</a>             </td>
+                                        <td class="text-left"> x @item.Quantity</td>
+                                        <td class="text-right">$@item.Price</td>
+                                        <td class="text-center">
+                                                <span class="input-group-btn">
+                                                    <a href="~/Order/Delete/@item.ProductId" title="" class="btn btn-danger btn-xs"><i class="fa fa-times"></i></a>
+                                                </span>
+                                            
+                                        </td>
+
+                                    </tr>
+
+                                </tbody>
+                            </table>
+
+                        </li>
+                    }
+
+                    <li>
+                        <div>
+                            <table class="table table-bordered">
+                                <tbody>
+
+                                    <tr>
+                                        <td class="text-right"><strong>Total</strong></td>
+                                        <td class="text-right">$@TotalPrice</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                            <p class="text-right button-container"><a href="@Url.Action("DetailList","Order")" class="addtocart btn btn-primary"><strong> View Cart</strong></a>
+
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    }
+}

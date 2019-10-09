@@ -1,0 +1,628 @@
+﻿<Project ToolsVersion="15.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props" Condition="Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{57EFDDAC-0CB8-4A99-9548-73E6015DB41A}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ECommerceSample</RootNamespace>
+    <AssemblyName>ECommerceSample</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <Use64BitIISExpress />
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="System.Web.Razor">
+      <HintPath>..\packages\Microsoft.AspNet.Razor.3.2.4\lib\net45\System.Web.Razor.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Webpages">
+      <HintPath>..\packages\Microsoft.AspNet.Webpages.3.2.4\lib\net45\System.Web.Webpages.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Webpages.Deployment">
+      <HintPath>..\packages\Microsoft.AspNet.Webpages.3.2.4\lib\net45\System.Web.Webpages.Deployment.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Webpages.Razor">
+      <HintPath>..\packages\Microsoft.AspNet.Webpages.3.2.4\lib\net45\System.Web.Webpages.Razor.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Helpers">
+      <HintPath>..\packages\Microsoft.AspNet.Webpages.3.2.4\lib\net45\System.Web.Helpers.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Web.Infrastructure">
+      <HintPath>..\packages\Microsoft.Web.Infrastructure.1.0.0.0\lib\net40\Microsoft.Web.Infrastructure.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Mvc">
+      <HintPath>..\packages\Microsoft.AspNet.Mvc.5.2.4\lib\net45\System.Web.Mvc.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform">
+      <HintPath>..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Content\Theme\assets\css\bootstrap.css" />
+    <Content Include="Content\Theme\assets\css\style-responsive.css" />
+    <Content Include="Content\Theme\assets\css\style.css" />
+    <Content Include="Content\Theme\assets\css\table-responsive.css" />
+    <Content Include="Content\Theme\assets\css\to-do.css" />
+    <Content Include="Content\Theme\assets\css\zabuto_calendar.css" />
+    <Content Include="Content\Theme\assets\font-awesome\css\font-awesome.css" />
+    <Content Include="Content\Theme\assets\font-awesome\fonts\fontawesome-webfont.svg" />
+    <Content Include="Content\Theme\assets\fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="Content\Theme\assets\img\blog-bg.jpg" />
+    <Content Include="Content\Theme\assets\img\checkbox-gray.png" />
+    <Content Include="Content\Theme\assets\img\friends\fr-01.jpg" />
+    <Content Include="Content\Theme\assets\img\friends\fr-02.jpg" />
+    <Content Include="Content\Theme\assets\img\friends\fr-03.jpg" />
+    <Content Include="Content\Theme\assets\img\friends\fr-04.jpg" />
+    <Content Include="Content\Theme\assets\img\friends\fr-05.jpg" />
+    <Content Include="Content\Theme\assets\img\friends\fr-06.jpg" />
+    <Content Include="Content\Theme\assets\img\friends\fr-07.jpg" />
+    <Content Include="Content\Theme\assets\img\friends\fr-08.jpg" />
+    <Content Include="Content\Theme\assets\img\friends\fr-09.jpg" />
+    <Content Include="Content\Theme\assets\img\friends\fr-10.jpg" />
+    <Content Include="Content\Theme\assets\img\friends\fr-11.jpg" />
+    <Content Include="Content\Theme\assets\img\instagram.jpg" />
+    <Content Include="Content\Theme\assets\img\login-bg.jpg" />
+    <Content Include="Content\Theme\assets\img\lorde.jpg" />
+    <Content Include="Content\Theme\assets\img\mask.png" />
+    <Content Include="Content\Theme\assets\img\ny.jpg" />
+    <Content Include="Content\Theme\assets\img\portfolio\port01.jpg" />
+    <Content Include="Content\Theme\assets\img\portfolio\port02.jpg" />
+    <Content Include="Content\Theme\assets\img\portfolio\port03.jpg" />
+    <Content Include="Content\Theme\assets\img\portfolio\port04.jpg" />
+    <Content Include="Content\Theme\assets\img\portfolio\port05.jpg" />
+    <Content Include="Content\Theme\assets\img\portfolio\port06.jpg" />
+    <Content Include="Content\Theme\assets\img\product.jpg" />
+    <Content Include="Content\Theme\assets\img\product.png" />
+    <Content Include="Content\Theme\assets\img\profile-01.jpg" />
+    <Content Include="Content\Theme\assets\img\profile-02.jpg" />
+    <Content Include="Content\Theme\assets\img\radio-gray.png" />
+    <Content Include="Content\Theme\assets\img\ui-danro.jpg" />
+    <Content Include="Content\Theme\assets\img\ui-divya.jpg" />
+    <Content Include="Content\Theme\assets\img\ui-sam.jpg" />
+    <Content Include="Content\Theme\assets\img\ui-sherman.jpg" />
+    <Content Include="Content\Theme\assets\img\ui-zac.jpg" />
+    <Content Include="Content\Theme\assets\img\weather.jpg" />
+    <Content Include="Content\Theme\assets\img\zoom.png" />
+    <Content Include="Content\Theme\assets\js\bootstrap-inputmask\bootstrap-inputmask.min.js" />
+    <Content Include="Content\Theme\assets\js\bootstrap-switch.js" />
+    <Content Include="Content\Theme\assets\js\bootstrap.min.js" />
+    <Content Include="Content\Theme\assets\js\calendar-conf-events.js" />
+    <Content Include="Content\Theme\assets\js\chart-master\Chart.js" />
+    <Content Include="Content\Theme\assets\js\chartjs-conf.js" />
+    <Content Include="Content\Theme\assets\js\common-scripts.js" />
+    <Content Include="Content\Theme\assets\js\easy-pie-chart.js" />
+    <Content Include="Content\Theme\assets\js\fancybox\jquery.fancybox.css" />
+    <Content Include="Content\Theme\assets\js\fancybox\jquery.fancybox.js" />
+    <Content Include="Content\Theme\assets\js\form-component.js" />
+    <Content Include="Content\Theme\assets\js\fullcalendar\bootstrap-fullcalendar.css" />
+    <Content Include="Content\Theme\assets\js\fullcalendar\fullcalendar.min.js" />
+    <Content Include="Content\Theme\assets\js\gritter-conf.js" />
+    <Content Include="Content\Theme\assets\js\gritter\css\jquery.gritter.css" />
+    <Content Include="Content\Theme\assets\js\gritter\css\jquery.gritter0.css" />
+    <Content Include="Content\Theme\assets\js\gritter\images\gritter-light.png" />
+    <Content Include="Content\Theme\assets\js\gritter\images\gritter-long.png" />
+    <Content Include="Content\Theme\assets\js\gritter\images\gritter.png" />
+    <Content Include="Content\Theme\assets\js\gritter\images\ie-spacer.gif" />
+    <Content Include="Content\Theme\assets\js\gritter\js\jquery.gritter.js" />
+    <Content Include="Content\Theme\assets\js\jquery-1.8.3.min.js" />
+    <Content Include="Content\Theme\assets\js\jquery-easy-pie-chart\jquery.easy-pie-chart.css" />
+    <Content Include="Content\Theme\assets\js\jquery-easy-pie-chart\jquery.easy-pie-chart.js" />
+    <Content Include="Content\Theme\assets\js\jquery-ui-1.9.2.custom.min.js" />
+    <Content Include="Content\Theme\assets\js\jquery.backstretch.min.js" />
+    <Content Include="Content\Theme\assets\js\jquery.dcjqaccordion.2.7.js" />
+    <Content Include="Content\Theme\assets\js\jquery.js" />
+    <Content Include="Content\Theme\assets\js\jquery.nicescroll.js" />
+    <Content Include="Content\Theme\assets\js\jquery.scrollTo.min.js" />
+    <Content Include="Content\Theme\assets\js\jquery.sparkline.js" />
+    <Content Include="Content\Theme\assets\js\jquery.tagsinput.js" />
+    <Content Include="Content\Theme\assets\js\jquery.ui.touch-punch.min.js" />
+    <Content Include="Content\Theme\assets\js\morris-conf.js" />
+    <Content Include="Content\Theme\assets\js\sparkline-chart.js" />
+    <Content Include="Content\Theme\assets\js\tasks.js" />
+    <Content Include="Content\Theme\assets\js\zabuto_calendar.js" />
+    <Content Include="Content\Theme\assets\lineicons\fonts\linecons.svg" />
+    <Content Include="Content\Theme\assets\lineicons\index.html" />
+    <Content Include="Content\Theme\assets\lineicons\lte-ie7.js" />
+    <Content Include="Content\Theme\assets\lineicons\style.css" />
+    <Content Include="Content\Theme\basic_table.html" />
+    <Content Include="Content\Theme\blank.html" />
+    <Content Include="Content\Theme\buttons.html" />
+    <Content Include="Content\Theme\calendar.html" />
+    <Content Include="Content\Theme\chartjs.html" />
+    <Content Include="Content\Theme\form_component.html" />
+    <Content Include="Content\Theme\gallery.html" />
+    <Content Include="Content\Theme\general.html" />
+    <Content Include="Content\Theme\index.html" />
+    <Content Include="Content\Theme\lock_screen.html" />
+    <Content Include="Content\Theme\login.html" />
+    <Content Include="Content\Theme\morris.html" />
+    <Content Include="Content\Theme\panels.html" />
+    <Content Include="Content\Theme\responsive_table.html" />
+    <Content Include="Content\Theme\todo_list.html" />
+    <Content Include="Content\web2\catalog\images\lightbox\close.png" />
+    <Content Include="Content\web2\catalog\images\lightbox\loading.gif" />
+    <Content Include="Content\web2\catalog\images\lightbox\next.png" />
+    <Content Include="Content\web2\catalog\images\lightbox\prev.png" />
+    <Content Include="Content\web2\catalog\image\lightbox\close.png" />
+    <Content Include="Content\web2\catalog\image\lightbox\loading.gif" />
+    <Content Include="Content\web2\catalog\image\lightbox\next.png" />
+    <Content Include="Content\web2\catalog\image\lightbox\prev.png" />
+    <Content Include="Content\web2\catalog\image\sprite.png" />
+    <Content Include="Content\web2\catalog\logo3.png" />
+    <Content Include="Content\web2\catalog\view\image\arrow %281%29.png" />
+    <Content Include="Content\web2\catalog\view\image\arrow.png" />
+    <Content Include="Content\web2\catalog\view\image\callus.png" />
+    <Content Include="Content\web2\catalog\view\image\cart.png" />
+    <Content Include="Content\web2\catalog\view\image\footer-logo.png" />
+    <Content Include="Content\web2\catalog\view\image\icons.png" />
+    <Content Include="Content\web2\catalog\view\image\loading.gif" />
+    <Content Include="Content\web2\catalog\view\image\logo.png" />
+    <Content Include="Content\web2\catalog\view\image\newsletter.png" />
+    <Content Include="Content\web2\catalog\view\image\quote.png" />
+    <Content Include="Content\web2\catalog\view\image\search.png" />
+    <Content Include="Content\web2\catalog\view\image\select-arrow-down.gif" />
+    <Content Include="Content\web2\catalog\view\image\select-arrow-up.gif" />
+    <Content Include="Content\web2\catalog\view\image\service-icon.png" />
+    <Content Include="Content\web2\catalog\view\image\sprite.png" />
+    <Content Include="Content\web2\catalog\view\image\top-arrow.png" />
+    <Content Include="Content\web2\catalog\view\javascript\animate.css" />
+    <Content Include="Content\web2\catalog\view\javascript\bootstrap-notify.min.js" />
+    <Content Include="Content\web2\catalog\view\javascript\bootstrap.min.css" />
+    <Content Include="Content\web2\catalog\view\javascript\bootstrap.min.js" />
+    <Content Include="Content\web2\catalog\view\javascript\carousel.css" />
+    <Content Include="Content\web2\catalog\view\javascript\carousel.min.js" />
+    <Content Include="Content\web2\catalog\view\javascript\codezeel.min.js" />
+    <Content Include="Content\web2\catalog\view\javascript\common.js" />
+    <Content Include="Content\web2\catalog\view\javascript\css\stylesheet.css" />
+    <Content Include="Content\web2\catalog\view\javascript\custom.css" />
+    <Content Include="Content\web2\catalog\view\javascript\custom.js" />
+    <Content Include="Content\web2\catalog\view\javascript\doubletaptogo.js" />
+    <Content Include="Content\web2\catalog\view\javascript\font-awesome.min.css" />
+    <Content Include="Content\web2\catalog\view\javascript\jquery-2.1.1.min.js" />
+    <Content Include="Content\web2\catalog\view\javascript\jquery.custom.min.js" />
+    <Content Include="Content\web2\catalog\view\javascript\jquery.elevatezoom.min.js" />
+    <Content Include="Content\web2\catalog\view\javascript\jquery.formalize.min.js" />
+    <Content Include="Content\web2\catalog\view\javascript\jquery.magnific-popup.min.js" />
+    <Content Include="Content\web2\catalog\view\javascript\jstree.min.js" />
+    <Content Include="Content\web2\catalog\view\javascript\lightbox-2.6.min.js" />
+    <Content Include="Content\web2\catalog\view\javascript\lightbox.css" />
+    <Content Include="Content\web2\catalog\view\javascript\magnific-popup.css" />
+    <Content Include="Content\web2\catalog\view\javascript\opencart.css" />
+    <Content Include="Content\web2\catalog\view\javascript\owl.carousel.min.js" />
+    <Content Include="Content\web2\catalog\view\javascript\stylesheet.css" />
+    <Content Include="Content\web2\catalog\view\javascript\swiper.jquery.js" />
+    <Content Include="Content\web2\catalog\view\javascript\swiper.min.css" />
+    <Content Include="Content\web2\catalog\view\javascript\tabs.js" />
+    <Content Include="Content\web2\db\mfyp.mdf" />
+    <Content Include="Content\web2\db\mfyp_log.ldf">
+      <DependentUpon>mfyp.mdf</DependentUpon>
+    </Content>
+    <Content Include="Content\web2\db\sql\db.sql" />
+    <Content Include="Content\web2\files\01-243x255.jpg" />
+    <Content Include="Content\web2\files\01-85x89.jpg" />
+    <Content Include="Content\web2\files\02-243x255.jpg" />
+    <Content Include="Content\web2\files\02-85x89.jpg" />
+    <Content Include="Content\web2\files\03-243x255.jpg" />
+    <Content Include="Content\web2\files\04-243x255.jpg" />
+    <Content Include="Content\web2\files\05-243x255.jpg" />
+    <Content Include="Content\web2\files\06-243x255.jpg" />
+    <Content Include="Content\web2\files\06-85x89.jpg" />
+    <Content Include="Content\web2\files\07-243x255.jpg" />
+    <Content Include="Content\web2\files\08-243x255.jpg" />
+    <Content Include="Content\web2\files\1-130x87.png" />
+    <Content Include="Content\web2\files\10-243x255.jpg" />
+    <Content Include="Content\web2\files\10-85x89.jpg" />
+    <Content Include="Content\web2\files\11-243x255.jpg" />
+    <Content Include="Content\web2\files\11-85x89.jpg" />
+    <Content Include="Content\web2\files\12-243x255.jpg" />
+    <Content Include="Content\web2\files\13-243x255.jpg" />
+    <Content Include="Content\web2\files\14-243x255.jpg" />
+    <Content Include="Content\web2\files\15-243x255.jpg" />
+    <Content Include="Content\web2\files\15-85x89.jpg" />
+    <Content Include="Content\web2\files\2-130x87.png" />
+    <Content Include="Content\web2\files\3-130x87.png" />
+    <Content Include="Content\web2\files\4-130x87.png" />
+    <Content Include="Content\web2\files\5-130x87.png" />
+    <Content Include="Content\web2\files\6-130x87.png" />
+    <Content Include="Content\web2\files\7-130x87.png" />
+    <Content Include="Content\web2\files\american_express.png" />
+    <Content Include="Content\web2\files\animate.css" />
+    <Content Include="Content\web2\files\ar.png" />
+    <Content Include="Content\web2\files\blog-1-1064x550.jpg" />
+    <Content Include="Content\web2\files\blog-2-1064x550.jpg" />
+    <Content Include="Content\web2\files\blog-3-1064x550.jpg" />
+    <Content Include="Content\web2\files\blog-4-1064x550.jpg" />
+    <Content Include="Content\web2\files\blog-5-1064x550.jpg" />
+    <Content Include="Content\web2\files\blog-6-1064x550.jpg" />
+    <Content Include="Content\web2\files\bootstrap.min.css" />
+    <Content Include="Content\web2\files\carousel.css" />
+    <Content Include="Content\web2\files\cms-banner-1.jpg" />
+    <Content Include="Content\web2\files\custom.css" />
+    <Content Include="Content\web2\files\discover.png" />
+    <Content Include="Content\web2\files\en-gb.png" />
+    <Content Include="Content\web2\files\font-awesome.min.css" />
+    <Content Include="Content\web2\files\google_wallet.png" />
+    <Content Include="Content\web2\files\iletisim.html" />
+    <Content Include="Content\web2\files\iletisim_files\02-85x89.jpg" />
+    <Content Include="Content\web2\files\iletisim_files\1-130x87.png" />
+    <Content Include="Content\web2\files\iletisim_files\2-130x87.png" />
+    <Content Include="Content\web2\files\iletisim_files\3-130x87.png" />
+    <Content Include="Content\web2\files\iletisim_files\4-130x87.png" />
+    <Content Include="Content\web2\files\iletisim_files\5-130x87.png" />
+    <Content Include="Content\web2\files\iletisim_files\6-130x87.png" />
+    <Content Include="Content\web2\files\iletisim_files\7-130x87.png" />
+    <Content Include="Content\web2\files\iletisim_files\american_express.png" />
+    <Content Include="Content\web2\files\iletisim_files\animate.css" />
+    <Content Include="Content\web2\files\iletisim_files\ar.png" />
+    <Content Include="Content\web2\files\iletisim_files\bootstrap.min.css" />
+    <Content Include="Content\web2\files\iletisim_files\carousel.css" />
+    <Content Include="Content\web2\files\iletisim_files\custom.css" />
+    <Content Include="Content\web2\files\iletisim_files\discover.png" />
+    <Content Include="Content\web2\files\iletisim_files\en-gb.png" />
+    <Content Include="Content\web2\files\iletisim_files\font-awesome.min.css" />
+    <Content Include="Content\web2\files\iletisim_files\google_wallet.png" />
+    <Content Include="Content\web2\files\iletisim_files\left-banner-1-244x310.jpg" />
+    <Content Include="Content\web2\files\iletisim_files\lightbox.css" />
+    <Content Include="Content\web2\files\iletisim_files\logo.png" />
+    <Content Include="Content\web2\files\iletisim_files\magnific-popup.css" />
+    <Content Include="Content\web2\files\iletisim_files\opencart.css" />
+    <Content Include="Content\web2\files\iletisim_files\paypal.png" />
+    <Content Include="Content\web2\files\iletisim_files\stylesheet.css" />
+    <Content Include="Content\web2\files\iletisim_files\swiper.min.css" />
+    <Content Include="Content\web2\files\iletisim_files\visa.png" />
+    <Content Include="Content\web2\files\left-banner-1-244x310.jpg" />
+    <Content Include="Content\web2\files\left-banner-2.jpg" />
+    <Content Include="Content\web2\files\lightbox.css" />
+    <Content Include="Content\web2\files\logo.png" />
+    <Content Include="Content\web2\files\magnific-popup.css" />
+    <Content Include="Content\web2\files\main-banner-1-1063x484.jpg" />
+    <Content Include="Content\web2\files\main-banner-2-1063x484.jpg" />
+    <Content Include="Content\web2\files\opencart.css" />
+    <Content Include="Content\web2\files\paypal.png" />
+    <Content Include="Content\web2\files\sepet.html" />
+    <Content Include="Content\web2\files\sepet_files\01-85x89.jpg" />
+    <Content Include="Content\web2\files\sepet_files\02-85x89.jpg" />
+    <Content Include="Content\web2\files\sepet_files\06-85x89.jpg" />
+    <Content Include="Content\web2\files\sepet_files\1-130x87.png" />
+    <Content Include="Content\web2\files\sepet_files\10-85x89.jpg" />
+    <Content Include="Content\web2\files\sepet_files\11-85x89.jpg" />
+    <Content Include="Content\web2\files\sepet_files\15-85x89.jpg" />
+    <Content Include="Content\web2\files\sepet_files\2-130x87.png" />
+    <Content Include="Content\web2\files\sepet_files\3-130x87.png" />
+    <Content Include="Content\web2\files\sepet_files\4-130x87.png" />
+    <Content Include="Content\web2\files\sepet_files\5-130x87.png" />
+    <Content Include="Content\web2\files\sepet_files\6-130x87.png" />
+    <Content Include="Content\web2\files\sepet_files\7-130x87.png" />
+    <Content Include="Content\web2\files\sepet_files\american_express.png" />
+    <Content Include="Content\web2\files\sepet_files\animate.css" />
+    <Content Include="Content\web2\files\sepet_files\ar.png" />
+    <Content Include="Content\web2\files\sepet_files\bootstrap-datetimepicker.min.css" />
+    <Content Include="Content\web2\files\sepet_files\bootstrap.min.css" />
+    <Content Include="Content\web2\files\sepet_files\carousel.css" />
+    <Content Include="Content\web2\files\sepet_files\custom.css" />
+    <Content Include="Content\web2\files\sepet_files\discover.png" />
+    <Content Include="Content\web2\files\sepet_files\en-gb.png" />
+    <Content Include="Content\web2\files\sepet_files\font-awesome.min.css" />
+    <Content Include="Content\web2\files\sepet_files\google_wallet.png" />
+    <Content Include="Content\web2\files\sepet_files\left-banner-1-244x310.jpg" />
+    <Content Include="Content\web2\files\sepet_files\lightbox.css" />
+    <Content Include="Content\web2\files\sepet_files\logo.png" />
+    <Content Include="Content\web2\files\sepet_files\magnific-popup.css" />
+    <Content Include="Content\web2\files\sepet_files\opencart.css" />
+    <Content Include="Content\web2\files\sepet_files\paypal.png" />
+    <Content Include="Content\web2\files\sepet_files\stylesheet.css" />
+    <Content Include="Content\web2\files\sepet_files\swiper.min.css" />
+    <Content Include="Content\web2\files\sepet_files\visa.png" />
+    <Content Include="Content\web2\files\stylesheet.css" />
+    <Content Include="Content\web2\files\sub-banner-1.jpg" />
+    <Content Include="Content\web2\files\sub-banner-2.jpg" />
+    <Content Include="Content\web2\files\swiper.min.css" />
+    <Content Include="Content\web2\files\visa.png" />
+    <Content Include="Content\web2\images\3-130x87.png" />
+    <Content Include="Content\web2\images\500px-Ford_Motor_Company_Logo.svg.png" />
+    <Content Include="Content\web2\images\banner_1.jpg" />
+    <Content Include="Content\web2\images\banner_2.jpg" />
+    <Content Include="Content\web2\images\banner_3.jpg" />
+    <Content Include="Content\web2\images\cmax.png" />
+    <Content Include="Content\web2\images\connect.png" />
+    <Content Include="Content\web2\images\escort.png" />
+    <Content Include="Content\web2\images\festiva..png" />
+    <Content Include="Content\web2\images\festiva.png" />
+    <Content Include="Content\web2\images\fiesta.png" />
+    <Content Include="Content\web2\images\focus.png" />
+    <Content Include="Content\web2\images\ford-mustang-701-facebook-cover-timeline-photo-banner-for-fb-ford-mustang-banner.jpg" />
+    <Content Include="Content\web2\images\fusion.png" />
+    <Content Include="Content\web2\images\ka.png" />
+    <Content Include="Content\web2\images\logo - Copy.png" />
+    <Content Include="Content\web2\images\logo.png" />
+    <Content Include="Content\web2\images\main-banner-1-1063x484.jpg" />
+    <Content Include="Content\web2\images\main-banner-1.png" />
+    <Content Include="Content\web2\images\main-banner-2.png" />
+    <Content Include="Content\web2\images\main-banner-3.png" />
+    <Content Include="Content\web2\images\mawyiqDh_400x400.jpg" />
+    <Content Include="Content\web2\images\_banner_2.jpg" />
+    <Content Include="Content\web2\img\1.jpg" />
+    <Content Include="Content\web2\img\2.jpg" />
+    <Content Include="Content\web2\img\3.jpg" />
+    <Content Include="Content\web2\img\upload.png" />
+    <Content Include="Content\web2\_index.html" />
+    <Content Include="Global.asax" />
+    <Content Include="Web.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Areas\Admin\AdminAreaRegistration.cs" />
+    <Compile Include="Areas\Admin\Controllers\AdminProfileController.cs" />
+    <Compile Include="Areas\Admin\Controllers\BrandController.cs" />
+    <Compile Include="Areas\Admin\Controllers\CategoryController.cs" />
+    <Compile Include="Areas\Admin\Controllers\MemberController.cs" />
+    <Compile Include="Areas\Admin\Controllers\ProductController.cs" />
+    <Compile Include="Areas\Admin\Models\ResultModel\InstanceResult.cs" />
+    <Compile Include="Areas\Admin\Models\ViewModel\ProductViewModel.cs" />
+    <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\LoginController.cs" />
+    <Compile Include="Controllers\OrderController.cs" />
+    <Compile Include="Controllers\PaymentController.cs" />
+    <Compile Include="Controllers\ProfileController.cs" />
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="Models\OrderInfoModel.cs" />
+    <Compile Include="Models\SendMail.cs" />
+    <Compile Include="Models\VM\LoginVM.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Views\web.config" />
+    <Content Include="Areas\Admin\Views\web.config" />
+    <Content Include="Areas\Admin\Views\Shared\_Layout.cshtml" />
+    <Content Include="Areas\Admin\Views\Category\List.cshtml" />
+    <Content Include="Areas\Admin\Views\Category\AddCategory.cshtml" />
+    <Content Include="Areas\Admin\Views\Category\Edit.cshtml" />
+    <Content Include="Areas\Admin\Views\Brand\List.cshtml" />
+    <Content Include="Areas\Admin\Views\Brand\AddBrand.cshtml" />
+    <Content Include="Areas\Admin\Views\Brand\Edit.cshtml" />
+    <Content Include="Areas\Admin\Views\Product\List.cshtml" />
+    <Content Include="Areas\Admin\Views\Product\AddProduct.cshtml" />
+    <Content Include="Areas\Admin\Views\Product\Edit.cshtml" />
+    <Content Include="Areas\Admin\Views\Member\List.cshtml" />
+    <Content Include="Areas\Admin\Views\Member\AddMember.cshtml" />
+    <Content Include="Areas\Admin\Views\Member\Edit.cshtml" />
+    <Content Include="Content\web2\catalog\view\fonts\fontawesome-webfont.eot" />
+    <Content Include="Content\web2\catalog\view\fonts\fontawesome-webfont.woff" />
+    <Content Include="Content\web2\catalog\view\fonts\fontawesome-webfont.woff2" />
+    <Content Include="Content\web2\files\bootstrap-notify.min.js.indir" />
+    <Content Include="Content\web2\files\bootstrap.min.js.indir" />
+    <Content Include="Content\web2\files\carousel.min.js.indir" />
+    <Content Include="Content\web2\files\codezeel.min.js.indir" />
+    <Content Include="Content\web2\files\common.js.indir" />
+    <Content Include="Content\web2\files\css" />
+    <Content Include="Content\web2\files\custom.js.indir" />
+    <Content Include="Content\web2\files\doubletaptogo.js.indir" />
+    <Content Include="Content\web2\files\iletisim_files\bootstrap-notify.min.js.indir" />
+    <Content Include="Content\web2\files\iletisim_files\bootstrap.min.js.indir" />
+    <Content Include="Content\web2\files\iletisim_files\carousel.min.js.indir" />
+    <Content Include="Content\web2\files\iletisim_files\codezeel.min.js.indir" />
+    <Content Include="Content\web2\files\iletisim_files\common.js.indir" />
+    <Content Include="Content\web2\files\iletisim_files\css" />
+    <Content Include="Content\web2\files\iletisim_files\custom.js.indir" />
+    <Content Include="Content\web2\files\iletisim_files\doubletaptogo.js.indir" />
+    <Content Include="Content\web2\files\iletisim_files\google_map_gen.js.indir" />
+    <Content Include="Content\web2\files\iletisim_files\jquery-2.1.1.min.js.indir" />
+    <Content Include="Content\web2\files\iletisim_files\jquery.custom.min.js.indir" />
+    <Content Include="Content\web2\files\iletisim_files\jquery.elevatezoom.min.js.indir" />
+    <Content Include="Content\web2\files\iletisim_files\jquery.formalize.min.js.indir" />
+    <Content Include="Content\web2\files\iletisim_files\jquery.magnific-popup.min.js.indir" />
+    <Content Include="Content\web2\files\iletisim_files\jstree.min.js.indir" />
+    <Content Include="Content\web2\files\iletisim_files\lightbox-2.6.min.js.indir" />
+    <Content Include="Content\web2\files\iletisim_files\owl.carousel.min.js.indir" />
+    <Content Include="Content\web2\files\iletisim_files\swiper.jquery.js.indir" />
+    <Content Include="Content\web2\files\iletisim_files\tabs.js.indir" />
+    <Content Include="Content\web2\files\jquery-2.1.1.min.js.indir" />
+    <Content Include="Content\web2\files\jquery.custom.min.js.indir" />
+    <Content Include="Content\web2\files\jquery.elevatezoom.min.js.indir" />
+    <Content Include="Content\web2\files\jquery.formalize.min.js.indir" />
+    <Content Include="Content\web2\files\jquery.magnific-popup.min.js.indir" />
+    <Content Include="Content\web2\files\jstree.min.js.indir" />
+    <Content Include="Content\web2\files\lightbox-2.6.min.js.indir" />
+    <Content Include="Content\web2\files\owl.carousel.min.js.indir" />
+    <Content Include="Content\web2\files\sepet_files\bootstrap-datetimepicker.min.js.indir" />
+    <Content Include="Content\web2\files\sepet_files\bootstrap-notify.min.js.indir" />
+    <Content Include="Content\web2\files\sepet_files\bootstrap.min.js.indir" />
+    <Content Include="Content\web2\files\sepet_files\carousel.min.js.indir" />
+    <Content Include="Content\web2\files\sepet_files\codezeel.min.js.indir" />
+    <Content Include="Content\web2\files\sepet_files\common.js.indir" />
+    <Content Include="Content\web2\files\sepet_files\css" />
+    <Content Include="Content\web2\files\sepet_files\custom.js.indir" />
+    <Content Include="Content\web2\files\sepet_files\doubletaptogo.js.indir" />
+    <Content Include="Content\web2\files\sepet_files\jquery-2.1.1.min.js.indir" />
+    <Content Include="Content\web2\files\sepet_files\jquery.custom.min.js.indir" />
+    <Content Include="Content\web2\files\sepet_files\jquery.elevatezoom.min.js.indir" />
+    <Content Include="Content\web2\files\sepet_files\jquery.formalize.min.js.indir" />
+    <Content Include="Content\web2\files\sepet_files\jquery.magnific-popup.min.js.indir" />
+    <Content Include="Content\web2\files\sepet_files\jstree.min.js.indir" />
+    <Content Include="Content\web2\files\sepet_files\lightbox-2.6.min.js.indir" />
+    <Content Include="Content\web2\files\sepet_files\moment-with-locales.min.js.indir" />
+    <Content Include="Content\web2\files\sepet_files\moment.min.js.indir" />
+    <Content Include="Content\web2\files\sepet_files\owl.carousel.min.js.indir" />
+    <Content Include="Content\web2\files\sepet_files\swiper.jquery.js.indir" />
+    <Content Include="Content\web2\files\sepet_files\tabs.js.indir" />
+    <Content Include="Content\web2\files\swiper.jquery.js.indir" />
+    <Content Include="Content\web2\files\tabs.js.indir" />
+    <Content Include="Content\web2\images\banner.psd" />
+    <Content Include="Content\web2\images\logo.psd" />
+    <Content Include="Content\web2\images\logo2.psd" />
+    <Content Include="Content\web2\_web.config" />
+    <Content Include="Content\Theme\assets\css\_DS_Store" />
+    <Content Include="Content\Theme\assets\font-awesome\css\_DS_Store" />
+    <Content Include="Content\Theme\assets\font-awesome\fonts\fontawesome-webfont.eot" />
+    <Content Include="Content\Theme\assets\font-awesome\fonts\fontawesome-webfont.ttf" />
+    <Content Include="Content\Theme\assets\font-awesome\fonts\fontawesome-webfont.woff" />
+    <Content Include="Content\Theme\assets\font-awesome\fonts\FontAwesome.otf" />
+    <Content Include="Content\Theme\assets\font-awesome\fonts\_DS_Store" />
+    <Content Include="Content\Theme\assets\font-awesome\_DS_Store" />
+    <Content Include="Content\Theme\assets\fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="Content\Theme\assets\fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="Content\Theme\assets\fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="Content\Theme\assets\fonts\_DS_Store" />
+    <Content Include="Content\Theme\assets\img\friends\_DS_Store" />
+    <Content Include="Content\Theme\assets\img\portfolio\_DS_Store" />
+    <Content Include="Content\Theme\assets\img\_DS_Store" />
+    <Content Include="Content\Theme\assets\js\bootstrap-inputmask\_DS_Store" />
+    <Content Include="Content\Theme\assets\js\chart-master\_DS_Store" />
+    <Content Include="Content\Theme\assets\js\fancybox\_DS_Store" />
+    <Content Include="Content\Theme\assets\js\fullcalendar\_DS_Store" />
+    <Content Include="Content\Theme\assets\js\gritter\css\_DS_Store" />
+    <Content Include="Content\Theme\assets\js\gritter\images\_DS_Store" />
+    <Content Include="Content\Theme\assets\js\gritter\js\_DS_Store" />
+    <Content Include="Content\Theme\assets\js\gritter\_DS_Store" />
+    <Content Include="Content\Theme\assets\js\jquery-easy-pie-chart\_DS_Store" />
+    <Content Include="Content\Theme\assets\js\_DS_Store" />
+    <Content Include="Content\Theme\assets\lineicons\fonts\linecons.eot" />
+    <Content Include="Content\Theme\assets\lineicons\fonts\linecons.ttf" />
+    <Content Include="Content\Theme\assets\lineicons\fonts\linecons.woff" />
+    <Content Include="Content\Theme\assets\lineicons\fonts\_DS_Store" />
+    <Content Include="Content\Theme\assets\lineicons\_DS_Store" />
+    <Content Include="Content\Theme\assets\_DS_Store" />
+    <Content Include="Content\Theme\_DS_Store" />
+    <Content Include="Areas\Admin\Views\Shared\_Layout2.cshtml" />
+    <Content Include="Areas\Admin\Views\AdminProfile\Edit.cshtml" />
+    <None Include="packages.config" />
+    <Content Include="Views\Shared1\_UserLayout.cshtml" />
+    <Content Include="Views\Home\Index.cshtml" />
+    <Content Include="Views\Shared1\_ProductList.cshtml" />
+    <Content Include="Views\Home\Detail.cshtml" />
+    <Content Include="Views\Home\List.cshtml" />
+    <Content Include="Views\Home\ListByBrand.cshtml" />
+    <Content Include="Views\Order\DetailList.cshtml" />
+    <Content Include="Views\Home\ListAllProduct.cshtml" />
+    <Content Include="Views\Payment\Pay.cshtml" />
+    <Content Include="Views\Shared1\_MainLayout.cshtml" />
+    <Content Include="Views\Login\Register.cshtml" />
+    <Content Include="Views\Login\SignIn.cshtml" />
+    <Content Include="Views\Profile\Edit.cshtml" />
+    <Content Include="Views\Shared1\_ShoppingCard.cshtml" />
+    <Content Include="Views\Order\OrderHistory.cshtml" />
+    <Content Include="Views\Payment\_HtmlMail.cshtml" />
+    <Content Include="Views\Shared1\_DetailLayout.cshtml" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="App_Data\" />
+    <Folder Include="Content\web2\files\images\" />
+    <Folder Include="Upload\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ECommerce.Common\ECommerce.Common.csproj">
+      <Project>{a6a05db3-1334-4f0f-804f-74f70e900bd7}</Project>
+      <Name>ECommerce.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ECommerce.Entity\ECommerce.Entity.csproj">
+      <Project>{6aa703fe-a9d8-4a52-ae22-891c21ce6fea}</Project>
+      <Name>ECommerce.Entity</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ECommerce.Repository\ECommerce.Repository.csproj">
+      <Project>{c680ca71-82fb-4f5c-9c50-a12de5f0a696}</Project>
+      <Name>ECommerce.Repository</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>59981</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:59981/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

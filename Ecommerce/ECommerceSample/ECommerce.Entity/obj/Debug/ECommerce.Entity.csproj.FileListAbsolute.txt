@@ -1,0 +1,60 @@
+C:\Users\ozhan.gulal\source\repos\ECommerceSample\ECommerce.Entity\bin\Debug\ECommerce.Entity.dll.config
+C:\Users\ozhan.gulal\source\repos\ECommerceSample\ECommerce.Entity\bin\Debug\ECommerce.Entity.dll
+C:\Users\ozhan.gulal\source\repos\ECommerceSample\ECommerce.Entity\bin\Debug\ECommerce.Entity.pdb
+C:\Users\ozhan.gulal\source\repos\ECommerceSample\ECommerce.Entity\bin\Debug\EntityFramework.dll
+C:\Users\ozhan.gulal\source\repos\ECommerceSample\ECommerce.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ozhan.gulal\source\repos\ECommerceSample\ECommerce.Entity\bin\Debug\EntityFramework.xml
+C:\Users\ozhan.gulal\source\repos\ECommerceSample\ECommerce.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ozhan.gulal\source\repos\ECommerceSample\ECommerce.Entity\obj\Debug\ECommerce.Entity.csprojAssemblyReference.cache
+C:\Users\ozhan.gulal\source\repos\ECommerceSample\ECommerce.Entity\obj\Debug\ECommerce.Entity.csproj.CoreCompileInputs.cache
+C:\Users\ozhan.gulal\source\repos\ECommerceSample\ECommerce.Entity\obj\Debug\ECommerce.Entity.csproj.CopyComplete
+C:\Users\ozhan.gulal\source\repos\ECommerceSample\ECommerce.Entity\obj\Debug\ECommerce.Entity.dll
+C:\Users\ozhan.gulal\source\repos\ECommerceSample\ECommerce.Entity\obj\Debug\ECommerce.Entity.pdb
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve\ECommerceSample\ECommerce.Entity\bin\Debug\ECommerce.Entity.dll.config
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve\ECommerceSample\ECommerce.Entity\bin\Debug\ECommerce.Entity.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve\ECommerceSample\ECommerce.Entity\bin\Debug\ECommerce.Entity.pdb
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve\ECommerceSample\ECommerce.Entity\bin\Debug\EntityFramework.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve\ECommerceSample\ECommerce.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve\ECommerceSample\ECommerce.Entity\bin\Debug\EntityFramework.xml
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve\ECommerceSample\ECommerce.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve\ECommerceSample\ECommerce.Entity\obj\Debug\ECommerce.Entity.csprojAssemblyReference.cache
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve\ECommerceSample\ECommerce.Entity\obj\Debug\ECommerce.Entity.csproj.CoreCompileInputs.cache
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve\ECommerceSample\ECommerce.Entity\obj\Debug\ECommerce.Entity.csproj.CopyComplete
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve\ECommerceSample\ECommerce.Entity\obj\Debug\ECommerce.Entity.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve\ECommerceSample\ECommerce.Entity\obj\Debug\ECommerce.Entity.pdb
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve\ECommerceSample\ECommerce.Entity\bin\Debug\ECommerce.Entity.dll.config
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve\ECommerceSample\ECommerce.Entity\bin\Debug\ECommerce.Entity.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve\ECommerceSample\ECommerce.Entity\bin\Debug\ECommerce.Entity.pdb
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve\ECommerceSample\ECommerce.Entity\bin\Debug\EntityFramework.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve\ECommerceSample\ECommerce.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve\ECommerceSample\ECommerce.Entity\bin\Debug\EntityFramework.xml
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve\ECommerceSample\ECommerce.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve\ECommerceSample\ECommerce.Entity\obj\Debug\ECommerce.Entity.csprojAssemblyReference.cache
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve\ECommerceSample\ECommerce.Entity\obj\Debug\ECommerce.Entity.csproj.CoreCompileInputs.cache
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve\ECommerceSample\ECommerce.Entity\obj\Debug\ECommerce.Entity.csproj.CopyComplete
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve\ECommerceSample\ECommerce.Entity\obj\Debug\ECommerce.Entity.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve\ECommerceSample\ECommerce.Entity\obj\Debug\ECommerce.Entity.pdb
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 3\ECommerceSample\ECommerce.Entity\bin\Debug\ECommerce.Entity.dll.config
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 3\ECommerceSample\ECommerce.Entity\bin\Debug\ECommerce.Entity.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 3\ECommerceSample\ECommerce.Entity\bin\Debug\ECommerce.Entity.pdb
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 3\ECommerceSample\ECommerce.Entity\bin\Debug\EntityFramework.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 3\ECommerceSample\ECommerce.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 3\ECommerceSample\ECommerce.Entity\bin\Debug\EntityFramework.xml
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 3\ECommerceSample\ECommerce.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 3\ECommerceSample\ECommerce.Entity\obj\Debug\ECommerce.Entity.csprojAssemblyReference.cache
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 3\ECommerceSample\ECommerce.Entity\obj\Debug\ECommerce.Entity.csproj.CoreCompileInputs.cache
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 3\ECommerceSample\ECommerce.Entity\obj\Debug\ECommerce.Entity.csproj.CopyComplete
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 3\ECommerceSample\ECommerce.Entity\obj\Debug\ECommerce.Entity.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 3\ECommerceSample\ECommerce.Entity\obj\Debug\ECommerce.Entity.pdb
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve v.2\ECommerceSample\ECommerce.Entity\bin\Debug\ECommerce.Entity.dll.config
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve v.2\ECommerceSample\ECommerce.Entity\bin\Debug\ECommerce.Entity.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve v.2\ECommerceSample\ECommerce.Entity\bin\Debug\ECommerce.Entity.pdb
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve v.2\ECommerceSample\ECommerce.Entity\bin\Debug\EntityFramework.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve v.2\ECommerceSample\ECommerce.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve v.2\ECommerceSample\ECommerce.Entity\bin\Debug\EntityFramework.xml
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve v.2\ECommerceSample\ECommerce.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve v.2\ECommerceSample\ECommerce.Entity\obj\Debug\ECommerce.Entity.csprojAssemblyReference.cache
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve v.2\ECommerceSample\ECommerce.Entity\obj\Debug\ECommerce.Entity.csproj.CoreCompileInputs.cache
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve v.2\ECommerceSample\ECommerce.Entity\obj\Debug\ECommerce.Entity.csproj.CopyComplete
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve v.2\ECommerceSample\ECommerce.Entity\obj\Debug\ECommerce.Entity.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve v.2\ECommerceSample\ECommerce.Entity\obj\Debug\ECommerce.Entity.pdb

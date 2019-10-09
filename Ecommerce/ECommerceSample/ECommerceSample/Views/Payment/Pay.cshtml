@@ -1,0 +1,144 @@
+﻿@model ECommerce.Entity.Invoice
+@{
+    ViewBag.Title = "Payment";
+    Layout = "~/Views/Shared1/_MainLayout.cshtml";
+}
+
+<h2>Payment</h2>
+@using (Html.BeginForm())
+{
+<div id="content" class="col-sm-9">
+   
+    <h1>Payment Information</h1>
+    <div class="panel-group" id="accordion">
+ 
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title"><a href="#collapse-payment-address" data-toggle="collapse" data-parent="#accordion" class="accordion-toggle" aria-expanded="true">Billing Details <i class="fa fa-caret-down"></i></a></h4>
+            </div>
+            <div class="panel-collapse collapse in" id="collapse-payment-address" aria-expanded="true" style="">
+                <div class="panel-body">
+                    <form class="form-horizontal">
+                        <br>
+                        <div id="payment-new" style="display: block;">
+
+                            <div class="form-group required">
+                                <label class="col-sm-2 control-label" for="input-payment-address-1">Address</label>
+                                <div class="col-sm-10">
+                                    @Html.TextBoxFor(x => x.Address, new { @class = "form-control" })
+                                </div>
+                            </div>
+
+                        </div>
+                        <div id="payment-new" style="display: block;">
+
+                            <div class="form-group required">
+                                <label class="col-sm-2 control-label" for="input-payment-address-1">Payment Types</label>
+                                <div class="col-sm-10">
+                                    @Html.DropDownList("PaymentTypes", ViewBag.Skills as SelectList, new { @class = "form-control" })
+                                </div>
+                            </div>
+
+                        </div>
+                        <div class="buttons clearfix">
+                            <div class="pull-right">
+                                <button type="submit" value="Continue" id="button-payment-address" data-loading-text="Loading..." class="btn btn-primary">PAY</button>
+                            </div>
+                        </div>
+                    </form>
+                    <script type="text/javascript">
+<!--
+$('input[name=\'payment_address\']').on('change', function() {
+	if (this.value == 'new') {
+		$('#payment-existing').hide();
+		$('#payment-new').show();
+	} else {
+		$('#payment-existing').show();
+		$('#payment-new').hide();
+	}
+});
+//--></script>
+                    <script type="text/javascript">
+<!--
+// Sort the custom fields
+$('#collapse-payment-address .form-group[data-sort]').detach().each(function() {
+	if ($(this).attr('data-sort') >= 0 && $(this).attr('data-sort') <= $('#collapse-payment-address .form-group').length-2) {
+		$('#collapse-payment-address .form-group').eq(parseInt($(this).attr('data-sort'))+2).before(this);
+	}
+
+	if ($(this).attr('data-sort') > $('#collapse-payment-address .form-group').length-2) {
+		$('#collapse-payment-address .form-group:last').after(this);
+	}
+
+	if ($(this).attr('data-sort') == $('#collapse-payment-address .form-group').length-2) {
+		$('#collapse-payment-address .form-group:last').after(this);
+	}
+
+	if ($(this).attr('data-sort') < -$('#collapse-payment-address .form-group').length-2) {
+		$('#collapse-payment-address .form-group:first').before(this);
+	}
+});
+//--></script>
+                    <script type="text/javascript">
+<!--
+$('#collapse-payment-address button[id^=\'button-payment-custom-field\']').on('click', function() {
+	var element = this;
+
+	$('#form-upload').remove();
+
+	$('body').prepend('<form enctype="multipart/form-data" id="form-upload" style="display: none;"><input type="file" name="file" /></form>');
+
+	$('#form-upload input[name=\'file\']').trigger('click');
+
+	if (typeof timer != 'undefined') {
+    	clearInterval(timer);
+	}
+
+	timer = setInterval(function() {
+		if ($('#form-upload input[name=\'file\']').val() != '') {
+			clearInterval(timer);
+
+			$.ajax({
+				url: 'index.php?route=tool/upload',
+				type: 'post',
+				dataType: 'json',
+				data: new FormData($('#form-upload')[0]),
+				cache: false,
+				contentType: false,
+				processData: false,
+				beforeSend: function() {
+					$(element).button('loading');
+				},
+				complete: function() {
+					$(element).button('reset');
+				},
+				success: function(json) {
+					$(element).parent().find('.text-danger').remove();
+
+					if (json['error']) {
+						$(element).parent().find('input[name^=\'custom_field\']').after('<div class="text-danger">' + json['error'] + '</div>');
+					}
+
+					if (json['success']) {
+						alert(json['success']);
+
+						$(element).parent().find('input[name^=\'custom_field\']').val(json['code']);
+					}
+				},
+				error: function(xhr, ajaxOptions, thrownError) {
+					alert(thrownError + "\r\n" + xhr.statusText + "\r\n" + xhr.responseText);
+				}
+			});
+		}
+	}, 500);
+});
+//--></script>
+             
+                </div>
+            </div>
+        </div>
+     
+    </div>
+</div>
+}
+

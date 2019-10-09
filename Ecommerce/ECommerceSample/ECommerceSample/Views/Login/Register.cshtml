@@ -1,0 +1,61 @@
+﻿@using ECommerce.Entity
+@model Member
+
+@{
+    ViewBag.Title = "Register";
+    Layout = "~/Views/Shared1/_MainLayout.cshtml";
+}
+
+<h2>Register</h2>
+@using (Html.BeginForm("Register", "Login", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+
+<fieldset id="account">
+    <legend>Your Personal Details</legend>
+
+    <div class="form-group required">
+        <label class="col-sm-2 control-label" for="input-firstname">User Type</label>
+        <div class="col-sm-10">
+            @Html.DropDownList("userTypes", new SelectList(ViewBag.userTypes, "Value", "Text"), "Select Your User Types", new { @class = "form-control" })
+        </div>
+    </div>
+
+    <div class="form-group required">
+        <label class="col-sm-2 control-label" for="input-firstname">First Name</label>
+        <div class="col-sm-10">
+            @Html.EditorFor(model => model.FirstName, new { htmlAttributes = new { @class = "form-control" } })
+        </div>
+    </div>
+    <div class="form-group required">
+        <label class="col-sm-2 control-label" for="input-lastname">Last Name</label>
+        <div class="col-sm-10">
+            @Html.EditorFor(model => model.LastName, new { htmlAttributes = new { @class = "form-control" } })
+        </div>
+    </div>
+    <div class="form-group required">
+        <label class="col-sm-2 control-label" for="input-email">E-Mail</label>
+        <div class="col-sm-10">
+            @Html.EditorFor(model => model.Email, new { htmlAttributes = new { @class = "form-control" } })
+        </div>
+    </div>
+    <div class="form-group required">
+        <label class="col-sm-2 control-label" for="input-password">Password</label>
+        <div class="col-sm-10">
+            @Html.EditorFor(model => model.Password, new { htmlAttributes = new { @class = "form-control" } })
+        </div>
+    </div>
+    <div class="form-group required">
+        <label class="col-sm-2 control-label" for="input-password">Address</label>
+        <div class="col-sm-10">
+            @Html.EditorFor(model => model.Address, new { htmlAttributes = new { @class = "form-control" } })
+        </div>
+    </div>
+
+</fieldset>
+
+    <div class="buttons">        
+        <div class="pull-right">
+            <input type="submit" value="Submit" class="btn btn-primary">
+        </div>
+    </div>
+}

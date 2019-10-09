@@ -1,0 +1,54 @@
+﻿@using ECommerce.Entity
+@model Product
+@{
+    ViewBag.Title = "Detail";
+    Layout = "~/Views/Shared1/_DetailLayout.cshtml";
+}
+
+<h2>Detaıl</h2>
+
+<div class="quickview">
+    <div class="quickview-container">
+
+        <div id="content" class="productpage-quickview">
+            
+                <div class="col-sm-6 product-left">
+                    <div class="product-info">
+                        <div class="left product-image thumbnails">
+
+                            <div class="image"><a class="thumbnail"><img id="tmzoom" src="~/Upload/@Html.DisplayFor(m=>m.Photo)" max-width="150" data-zoom-image="~/Upload/@Html.DisplayFor(m=>m.Photo)" title="@Html.DisplayFor(m=>m.ProductName)" /></a></div>
+
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-sm-6 product-right">
+                    <h3 class="product-title">@Html.DisplayFor(m => m.ProductName)</h3>
+                    <ul class="list-unstyled short-desc attr">
+                        <li><span class="desc">Brand: </span><a>@Html.DisplayFor(m => m.Brand.BrandName)</a></li>
+                        <li><span class="desc">Category: </span><a>@Html.DisplayFor(m => m.Category.CategoryName)</a></li>
+                        <li><span class="desc">Stock: </span>@Html.DisplayFor(m => m.Stock)</li>
+                    </ul>
+                    <ul class="list-unstyled price">
+                        <li><span class="desc">Price: </span><h3 class="special-price">@Html.DisplayFor(m => m.Price)</h3></li>
+                    </ul>
+
+                    <div id="product2">
+                        <hr>
+                        <div class="form-group cart-block qty">
+                            <a id="button-cart2" data-loading-text="Loading..." target="_parent" class="btn btn-primary btn-lg btn-block" href="~/Order/Add/@Model.ProductId">Add to Cart</a>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+
+
+

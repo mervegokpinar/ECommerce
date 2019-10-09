@@ -1,0 +1,94 @@
+﻿@using ECommerce.Entity
+@model IEnumerable<Product>
+
+
+<div class="box featured">
+    <div class="container">
+        <div class="feature-wrapper">
+            <div class="box-content">
+                <div class="customNavigation">
+                    <a class="fa prev fa-arrow-left czfeature_prev">&nbsp;</a>
+                    <a class="fa next fa-arrow-right czfeature_next">&nbsp;</a>
+                </div>
+
+                <div class="box-product product-carousel" id="special-carousel">
+                    @foreach (Product item in Model)
+                    {
+
+
+                        <div class="slider-item">
+                            <div class="product-block product-thumb transition">
+                                <div class="product-block-inner">
+                                    <div class="image">
+
+                                        <a href="~/Home/Detail/@item.ProductId">
+                                            <img src="~/Upload/@item.Photo" alt="" border="0" width="150" height="150" title="@item.ProductName" class="img-responsive reg-image" />
+                                            <img class="img-responsive hover-image" width="150" height="150" src="~/Upload/@item.Photo" title="@item.ProductName" />
+                                        </a>
+
+                                        <div class="button-group">
+
+                                            <div class="quickview-button" data-toggle="tooltip" title="Quick view">
+                                                <a class="quickbox" href="~/Home/Detail/@item.ProductId">
+                                                    <i class="fa fa-eye" aria-hidden="true"></i>
+                                                </a>
+                                            </div>
+
+                                            <a href="~/Order/Add/@item.ProductId" class="addToCart btn btn-default " data-toggle="tooltip" onclick="cart.add('@item.ProductId', '1');"> <span class="">Add to Cart</span></a>
+
+                                        </div>
+                                    </div>
+
+                                    <div class="product-detail">
+                                        <div class="caption">
+
+
+                                            <h4><a href="~/Home/Detail/@item.ProductId">@item.ProductName </a></h4>
+
+
+
+
+                                            <div class="prod_price">
+                                                <span class="price">@item.Price ₺</span>
+                                            </div>
+
+                                            <a href="~/Order/Add/@item.ProductId" class="addtocart"><span>Add to Cart</span> </a>
+
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    }
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script type="text/javascript">
+
+    $(document).ready(function () {
+        $('#featured-carousel').owlCarousel({
+            items: 4,
+            singleItem: false,
+            navigation: false,
+            pagination: false,
+            itemsDesktop: [1429, 3],
+            itemsDesktopSmall: [991, 3],
+            itemsTablet: [767, 2],
+            itemsMobile: [479, 1]
+        });
+        // Custom Navigation Events
+        $(".czfeature_next").click(function () {
+            $('#featured-carousel').trigger('owl.next');
+        })
+        $(".czfeature_prev").click(function () {
+            $('#featured-carousel').trigger('owl.prev');
+        });
+    });
+</script>
+
+

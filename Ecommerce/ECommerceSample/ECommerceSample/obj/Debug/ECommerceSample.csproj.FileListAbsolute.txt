@@ -1,0 +1,698 @@
+C:\Users\ozhan.gulal\source\repos\ECommerceSample\ECommerceSample\bin\ECommerceSample.dll.config
+C:\Users\ozhan.gulal\source\repos\ECommerceSample\ECommerceSample\bin\ECommerceSample.dll
+C:\Users\ozhan.gulal\source\repos\ECommerceSample\ECommerceSample\bin\ECommerceSample.pdb
+C:\Users\ozhan.gulal\source\repos\ECommerceSample\ECommerceSample\bin\roslyn\csc.exe
+C:\Users\ozhan.gulal\source\repos\ECommerceSample\ECommerceSample\bin\roslyn\csc.exe.config
+C:\Users\ozhan.gulal\source\repos\ECommerceSample\ECommerceSample\bin\roslyn\csc.rsp
+C:\Users\ozhan.gulal\source\repos\ECommerceSample\ECommerceSample\bin\roslyn\csi.exe
+C:\Users\ozhan.gulal\source\repos\ECommerceSample\ECommerceSample\bin\roslyn\csi.exe.config
+C:\Users\ozhan.gulal\source\repos\ECommerceSample\ECommerceSample\bin\roslyn\csi.rsp
+C:\Users\ozhan.gulal\source\repos\ECommerceSample\ECommerceSample\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ozhan.gulal\source\repos\ECommerceSample\ECommerceSample\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ozhan.gulal\source\repos\ECommerceSample\ECommerceSample\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ozhan.gulal\source\repos\ECommerceSample\ECommerceSample\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ozhan.gulal\source\repos\ECommerceSample\ECommerceSample\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ozhan.gulal\source\repos\ECommerceSample\ECommerceSample\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ozhan.gulal\source\repos\ECommerceSample\ECommerceSample\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ozhan.gulal\source\repos\ECommerceSample\ECommerceSample\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ozhan.gulal\source\repos\ECommerceSample\ECommerceSample\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ozhan.gulal\source\repos\ECommerceSample\ECommerceSample\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ozhan.gulal\source\repos\ECommerceSample\ECommerceSample\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ozhan.gulal\source\repos\ECommerceSample\ECommerceSample\bin\roslyn\System.AppContext.dll
+C:\Users\ozhan.gulal\source\repos\ECommerceSample\ECommerceSample\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ozhan.gulal\source\repos\ECommerceSample\ECommerceSample\bin\roslyn\System.Console.dll
+C:\Users\ozhan.gulal\source\repos\ECommerceSample\ECommerceSample\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ozhan.gulal\source\repos\ECommerceSample\ECommerceSample\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ozhan.gulal\source\repos\ECommerceSample\ECommerceSample\bin\roslyn\System.IO.Compression.dll
+C:\Users\ozhan.gulal\source\repos\ECommerceSample\ECommerceSample\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ozhan.gulal\source\repos\ECommerceSample\ECommerceSample\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ozhan.gulal\source\repos\ECommerceSample\ECommerceSample\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ozhan.gulal\source\repos\ECommerceSample\ECommerceSample\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ozhan.gulal\source\repos\ECommerceSample\ECommerceSample\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ozhan.gulal\source\repos\ECommerceSample\ECommerceSample\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ozhan.gulal\source\repos\ECommerceSample\ECommerceSample\bin\roslyn\System.Security.Claims.dll
+C:\Users\ozhan.gulal\source\repos\ECommerceSample\ECommerceSample\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ozhan.gulal\source\repos\ECommerceSample\ECommerceSample\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ozhan.gulal\source\repos\ECommerceSample\ECommerceSample\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ozhan.gulal\source\repos\ECommerceSample\ECommerceSample\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ozhan.gulal\source\repos\ECommerceSample\ECommerceSample\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ozhan.gulal\source\repos\ECommerceSample\ECommerceSample\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ozhan.gulal\source\repos\ECommerceSample\ECommerceSample\bin\roslyn\System.ValueTuple.dll
+C:\Users\ozhan.gulal\source\repos\ECommerceSample\ECommerceSample\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ozhan.gulal\source\repos\ECommerceSample\ECommerceSample\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ozhan.gulal\source\repos\ECommerceSample\ECommerceSample\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ozhan.gulal\source\repos\ECommerceSample\ECommerceSample\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ozhan.gulal\source\repos\ECommerceSample\ECommerceSample\bin\roslyn\vbc.exe
+C:\Users\ozhan.gulal\source\repos\ECommerceSample\ECommerceSample\bin\roslyn\vbc.exe.config
+C:\Users\ozhan.gulal\source\repos\ECommerceSample\ECommerceSample\bin\roslyn\vbc.rsp
+C:\Users\ozhan.gulal\source\repos\ECommerceSample\ECommerceSample\bin\roslyn\VBCSCompiler.exe
+C:\Users\ozhan.gulal\source\repos\ECommerceSample\ECommerceSample\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ozhan.gulal\source\repos\ECommerceSample\ECommerceSample\bin\ECommerce.Common.dll
+C:\Users\ozhan.gulal\source\repos\ECommerceSample\ECommerceSample\bin\ECommerce.Entity.dll
+C:\Users\ozhan.gulal\source\repos\ECommerceSample\ECommerceSample\bin\ECommerce.Repository.dll
+C:\Users\ozhan.gulal\source\repos\ECommerceSample\ECommerceSample\bin\EntityFramework.dll
+C:\Users\ozhan.gulal\source\repos\ECommerceSample\ECommerceSample\bin\EntityFramework.SqlServer.dll
+C:\Users\ozhan.gulal\source\repos\ECommerceSample\ECommerceSample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ozhan.gulal\source\repos\ECommerceSample\ECommerceSample\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ozhan.gulal\source\repos\ECommerceSample\ECommerceSample\bin\System.Web.Helpers.dll
+C:\Users\ozhan.gulal\source\repos\ECommerceSample\ECommerceSample\bin\System.Web.Mvc.dll
+C:\Users\ozhan.gulal\source\repos\ECommerceSample\ECommerceSample\bin\System.Web.Razor.dll
+C:\Users\ozhan.gulal\source\repos\ECommerceSample\ECommerceSample\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ozhan.gulal\source\repos\ECommerceSample\ECommerceSample\bin\System.Web.Webpages.dll
+C:\Users\ozhan.gulal\source\repos\ECommerceSample\ECommerceSample\bin\System.Web.Webpages.Razor.dll
+C:\Users\ozhan.gulal\source\repos\ECommerceSample\ECommerceSample\bin\ECommerce.Common.pdb
+C:\Users\ozhan.gulal\source\repos\ECommerceSample\ECommerceSample\bin\ECommerce.Common.dll.config
+C:\Users\ozhan.gulal\source\repos\ECommerceSample\ECommerceSample\bin\ECommerce.Entity.pdb
+C:\Users\ozhan.gulal\source\repos\ECommerceSample\ECommerceSample\bin\ECommerce.Entity.dll.config
+C:\Users\ozhan.gulal\source\repos\ECommerceSample\ECommerceSample\bin\ECommerce.Repository.pdb
+C:\Users\ozhan.gulal\source\repos\ECommerceSample\ECommerceSample\bin\ECommerce.Repository.dll.config
+C:\Users\ozhan.gulal\source\repos\ECommerceSample\ECommerceSample\bin\EntityFramework.xml
+C:\Users\ozhan.gulal\source\repos\ECommerceSample\ECommerceSample\bin\EntityFramework.SqlServer.xml
+C:\Users\ozhan.gulal\source\repos\ECommerceSample\ECommerceSample\bin\System.Web.Razor.xml
+C:\Users\ozhan.gulal\source\repos\ECommerceSample\ECommerceSample\bin\System.Web.Webpages.xml
+C:\Users\ozhan.gulal\source\repos\ECommerceSample\ECommerceSample\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ozhan.gulal\source\repos\ECommerceSample\ECommerceSample\bin\System.Web.Webpages.Razor.xml
+C:\Users\ozhan.gulal\source\repos\ECommerceSample\ECommerceSample\bin\System.Web.Helpers.xml
+C:\Users\ozhan.gulal\source\repos\ECommerceSample\ECommerceSample\bin\System.Web.Mvc.xml
+C:\Users\ozhan.gulal\source\repos\ECommerceSample\ECommerceSample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ozhan.gulal\source\repos\ECommerceSample\ECommerceSample\obj\Debug\ECommerceSample.csprojAssemblyReference.cache
+C:\Users\ozhan.gulal\source\repos\ECommerceSample\ECommerceSample\obj\Debug\ECommerceSample.csproj.CoreCompileInputs.cache
+C:\Users\ozhan.gulal\source\repos\ECommerceSample\ECommerceSample\obj\Debug\ECommerceSample.csproj.CopyComplete
+C:\Users\ozhan.gulal\source\repos\ECommerceSample\ECommerceSample\obj\Debug\ECommerceSample.dll
+C:\Users\ozhan.gulal\source\repos\ECommerceSample\ECommerceSample\obj\Debug\ECommerceSample.pdb
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve\ECommerceSample\ECommerceSample\bin\ECommerceSample.dll.config
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve\ECommerceSample\ECommerceSample\bin\ECommerceSample.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve\ECommerceSample\ECommerceSample\bin\ECommerceSample.pdb
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve\ECommerceSample\ECommerceSample\bin\roslyn\csc.exe
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve\ECommerceSample\ECommerceSample\bin\roslyn\csc.exe.config
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve\ECommerceSample\ECommerceSample\bin\roslyn\csc.rsp
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve\ECommerceSample\ECommerceSample\bin\roslyn\csi.exe
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve\ECommerceSample\ECommerceSample\bin\roslyn\csi.exe.config
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve\ECommerceSample\ECommerceSample\bin\roslyn\csi.rsp
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve\ECommerceSample\ECommerceSample\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve\ECommerceSample\ECommerceSample\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve\ECommerceSample\ECommerceSample\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve\ECommerceSample\ECommerceSample\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve\ECommerceSample\ECommerceSample\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve\ECommerceSample\ECommerceSample\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve\ECommerceSample\ECommerceSample\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve\ECommerceSample\ECommerceSample\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve\ECommerceSample\ECommerceSample\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve\ECommerceSample\ECommerceSample\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve\ECommerceSample\ECommerceSample\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve\ECommerceSample\ECommerceSample\bin\roslyn\System.AppContext.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve\ECommerceSample\ECommerceSample\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve\ECommerceSample\ECommerceSample\bin\roslyn\System.Console.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve\ECommerceSample\ECommerceSample\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve\ECommerceSample\ECommerceSample\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve\ECommerceSample\ECommerceSample\bin\roslyn\System.IO.Compression.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve\ECommerceSample\ECommerceSample\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve\ECommerceSample\ECommerceSample\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve\ECommerceSample\ECommerceSample\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve\ECommerceSample\ECommerceSample\bin\roslyn\System.IO.Pipes.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve\ECommerceSample\ECommerceSample\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve\ECommerceSample\ECommerceSample\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve\ECommerceSample\ECommerceSample\bin\roslyn\System.Security.Claims.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve\ECommerceSample\ECommerceSample\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve\ECommerceSample\ECommerceSample\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve\ECommerceSample\ECommerceSample\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve\ECommerceSample\ECommerceSample\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve\ECommerceSample\ECommerceSample\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve\ECommerceSample\ECommerceSample\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve\ECommerceSample\ECommerceSample\bin\roslyn\System.ValueTuple.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve\ECommerceSample\ECommerceSample\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve\ECommerceSample\ECommerceSample\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve\ECommerceSample\ECommerceSample\bin\roslyn\System.Xml.XPath.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve\ECommerceSample\ECommerceSample\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve\ECommerceSample\ECommerceSample\bin\roslyn\vbc.exe
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve\ECommerceSample\ECommerceSample\bin\roslyn\vbc.exe.config
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve\ECommerceSample\ECommerceSample\bin\roslyn\vbc.rsp
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve\ECommerceSample\ECommerceSample\bin\roslyn\VBCSCompiler.exe
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve\ECommerceSample\ECommerceSample\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve\ECommerceSample\ECommerceSample\bin\ECommerce.Common.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve\ECommerceSample\ECommerceSample\bin\ECommerce.Entity.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve\ECommerceSample\ECommerceSample\bin\ECommerce.Repository.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve\ECommerceSample\ECommerceSample\bin\EntityFramework.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve\ECommerceSample\ECommerceSample\bin\EntityFramework.SqlServer.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve\ECommerceSample\ECommerceSample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve\ECommerceSample\ECommerceSample\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve\ECommerceSample\ECommerceSample\bin\System.Web.Helpers.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve\ECommerceSample\ECommerceSample\bin\System.Web.Mvc.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve\ECommerceSample\ECommerceSample\bin\System.Web.Razor.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve\ECommerceSample\ECommerceSample\bin\System.Web.Webpages.Deployment.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve\ECommerceSample\ECommerceSample\bin\System.Web.Webpages.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve\ECommerceSample\ECommerceSample\bin\System.Web.Webpages.Razor.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve\ECommerceSample\ECommerceSample\bin\ECommerce.Common.pdb
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve\ECommerceSample\ECommerceSample\bin\ECommerce.Common.dll.config
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve\ECommerceSample\ECommerceSample\bin\ECommerce.Entity.pdb
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve\ECommerceSample\ECommerceSample\bin\ECommerce.Entity.dll.config
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve\ECommerceSample\ECommerceSample\bin\ECommerce.Repository.pdb
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve\ECommerceSample\ECommerceSample\bin\ECommerce.Repository.dll.config
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve\ECommerceSample\ECommerceSample\bin\EntityFramework.xml
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve\ECommerceSample\ECommerceSample\bin\EntityFramework.SqlServer.xml
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve\ECommerceSample\ECommerceSample\bin\System.Web.Razor.xml
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve\ECommerceSample\ECommerceSample\bin\System.Web.Webpages.xml
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve\ECommerceSample\ECommerceSample\bin\System.Web.Webpages.Deployment.xml
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve\ECommerceSample\ECommerceSample\bin\System.Web.Webpages.Razor.xml
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve\ECommerceSample\ECommerceSample\bin\System.Web.Helpers.xml
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve\ECommerceSample\ECommerceSample\bin\System.Web.Mvc.xml
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve\ECommerceSample\ECommerceSample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve\ECommerceSample\ECommerceSample\obj\Debug\ECommerceSample.csprojAssemblyReference.cache
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve\ECommerceSample\ECommerceSample\obj\Debug\ECommerceSample.csproj.CoreCompileInputs.cache
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve\ECommerceSample\ECommerceSample\obj\Debug\ECommerceSample.csproj.CopyComplete
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve\ECommerceSample\ECommerceSample\obj\Debug\ECommerceSample.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve\ECommerceSample\ECommerceSample\obj\Debug\ECommerceSample.pdb
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve\ECommerceSample\ECommerceSample\bin\tr\System.Web.Razor.resources.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve\ECommerceSample\ECommerceSample\bin\tr\System.Web.Webpages.resources.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve\ECommerceSample\ECommerceSample\bin\tr\System.Web.Webpages.Deployment.resources.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve\ECommerceSample\ECommerceSample\bin\tr\System.Web.Webpages.Razor.resources.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve\ECommerceSample\ECommerceSample\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve\ECommerceSample\ECommerceSample\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve\ECommerceSample\ECommerceSample\bin\ECommerceSample.dll.config
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve\ECommerceSample\ECommerceSample\bin\ECommerceSample.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve\ECommerceSample\ECommerceSample\bin\ECommerceSample.pdb
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve\ECommerceSample\ECommerceSample\bin\roslyn\csc.exe
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve\ECommerceSample\ECommerceSample\bin\roslyn\csc.exe.config
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve\ECommerceSample\ECommerceSample\bin\roslyn\csc.rsp
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve\ECommerceSample\ECommerceSample\bin\roslyn\csi.exe
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve\ECommerceSample\ECommerceSample\bin\roslyn\csi.exe.config
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve\ECommerceSample\ECommerceSample\bin\roslyn\csi.rsp
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve\ECommerceSample\ECommerceSample\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve\ECommerceSample\ECommerceSample\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve\ECommerceSample\ECommerceSample\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve\ECommerceSample\ECommerceSample\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve\ECommerceSample\ECommerceSample\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve\ECommerceSample\ECommerceSample\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve\ECommerceSample\ECommerceSample\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve\ECommerceSample\ECommerceSample\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve\ECommerceSample\ECommerceSample\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve\ECommerceSample\ECommerceSample\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve\ECommerceSample\ECommerceSample\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve\ECommerceSample\ECommerceSample\bin\roslyn\System.AppContext.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve\ECommerceSample\ECommerceSample\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve\ECommerceSample\ECommerceSample\bin\roslyn\System.Console.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve\ECommerceSample\ECommerceSample\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve\ECommerceSample\ECommerceSample\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve\ECommerceSample\ECommerceSample\bin\roslyn\System.IO.Compression.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve\ECommerceSample\ECommerceSample\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve\ECommerceSample\ECommerceSample\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve\ECommerceSample\ECommerceSample\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve\ECommerceSample\ECommerceSample\bin\roslyn\System.IO.Pipes.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve\ECommerceSample\ECommerceSample\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve\ECommerceSample\ECommerceSample\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve\ECommerceSample\ECommerceSample\bin\roslyn\System.Security.Claims.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve\ECommerceSample\ECommerceSample\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve\ECommerceSample\ECommerceSample\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve\ECommerceSample\ECommerceSample\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve\ECommerceSample\ECommerceSample\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve\ECommerceSample\ECommerceSample\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve\ECommerceSample\ECommerceSample\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve\ECommerceSample\ECommerceSample\bin\roslyn\System.ValueTuple.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve\ECommerceSample\ECommerceSample\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve\ECommerceSample\ECommerceSample\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve\ECommerceSample\ECommerceSample\bin\roslyn\System.Xml.XPath.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve\ECommerceSample\ECommerceSample\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve\ECommerceSample\ECommerceSample\bin\roslyn\vbc.exe
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve\ECommerceSample\ECommerceSample\bin\roslyn\vbc.exe.config
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve\ECommerceSample\ECommerceSample\bin\roslyn\vbc.rsp
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve\ECommerceSample\ECommerceSample\bin\roslyn\VBCSCompiler.exe
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve\ECommerceSample\ECommerceSample\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve\ECommerceSample\ECommerceSample\bin\ECommerce.Common.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve\ECommerceSample\ECommerceSample\bin\ECommerce.Entity.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve\ECommerceSample\ECommerceSample\bin\ECommerce.Repository.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve\ECommerceSample\ECommerceSample\bin\EntityFramework.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve\ECommerceSample\ECommerceSample\bin\EntityFramework.SqlServer.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve\ECommerceSample\ECommerceSample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve\ECommerceSample\ECommerceSample\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve\ECommerceSample\ECommerceSample\bin\System.Web.Helpers.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve\ECommerceSample\ECommerceSample\bin\System.Web.Mvc.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve\ECommerceSample\ECommerceSample\bin\System.Web.Razor.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve\ECommerceSample\ECommerceSample\bin\System.Web.Webpages.Deployment.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve\ECommerceSample\ECommerceSample\bin\System.Web.Webpages.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve\ECommerceSample\ECommerceSample\bin\System.Web.Webpages.Razor.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve\ECommerceSample\ECommerceSample\bin\ECommerce.Common.pdb
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve\ECommerceSample\ECommerceSample\bin\ECommerce.Common.dll.config
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve\ECommerceSample\ECommerceSample\bin\ECommerce.Entity.pdb
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve\ECommerceSample\ECommerceSample\bin\ECommerce.Entity.dll.config
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve\ECommerceSample\ECommerceSample\bin\ECommerce.Repository.pdb
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve\ECommerceSample\ECommerceSample\bin\ECommerce.Repository.dll.config
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve\ECommerceSample\ECommerceSample\bin\EntityFramework.xml
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve\ECommerceSample\ECommerceSample\bin\EntityFramework.SqlServer.xml
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve\ECommerceSample\ECommerceSample\bin\System.Web.Razor.xml
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve\ECommerceSample\ECommerceSample\bin\System.Web.Webpages.xml
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve\ECommerceSample\ECommerceSample\bin\System.Web.Webpages.Deployment.xml
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve\ECommerceSample\ECommerceSample\bin\System.Web.Webpages.Razor.xml
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve\ECommerceSample\ECommerceSample\bin\System.Web.Helpers.xml
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve\ECommerceSample\ECommerceSample\bin\System.Web.Mvc.xml
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve\ECommerceSample\ECommerceSample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve\ECommerceSample\ECommerceSample\bin\tr\System.Web.Razor.resources.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve\ECommerceSample\ECommerceSample\bin\tr\System.Web.Webpages.resources.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve\ECommerceSample\ECommerceSample\bin\tr\System.Web.Webpages.Deployment.resources.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve\ECommerceSample\ECommerceSample\bin\tr\System.Web.Webpages.Razor.resources.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve\ECommerceSample\ECommerceSample\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve\ECommerceSample\ECommerceSample\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve\ECommerceSample\ECommerceSample\obj\Debug\ECommerceSample.csprojAssemblyReference.cache
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve\ECommerceSample\ECommerceSample\obj\Debug\ECommerceSample.csproj.CoreCompileInputs.cache
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve\ECommerceSample\ECommerceSample\obj\Debug\ECommerceSample.csproj.CopyComplete
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve\ECommerceSample\ECommerceSample\obj\Debug\ECommerceSample.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve\ECommerceSample\ECommerceSample\obj\Debug\ECommerceSample.pdb
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve2\ECommerceSample\ECommerceSample\bin\ECommerceSample.dll.config
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve2\ECommerceSample\ECommerceSample\bin\ECommerceSample.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve2\ECommerceSample\ECommerceSample\bin\ECommerceSample.pdb
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve2\ECommerceSample\ECommerceSample\bin\roslyn\csc.exe
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve2\ECommerceSample\ECommerceSample\bin\roslyn\csc.exe.config
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve2\ECommerceSample\ECommerceSample\bin\roslyn\csc.rsp
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve2\ECommerceSample\ECommerceSample\bin\roslyn\csi.exe
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve2\ECommerceSample\ECommerceSample\bin\roslyn\csi.exe.config
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve2\ECommerceSample\ECommerceSample\bin\roslyn\csi.rsp
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve2\ECommerceSample\ECommerceSample\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve2\ECommerceSample\ECommerceSample\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve2\ECommerceSample\ECommerceSample\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve2\ECommerceSample\ECommerceSample\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve2\ECommerceSample\ECommerceSample\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve2\ECommerceSample\ECommerceSample\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve2\ECommerceSample\ECommerceSample\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve2\ECommerceSample\ECommerceSample\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve2\ECommerceSample\ECommerceSample\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve2\ECommerceSample\ECommerceSample\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve2\ECommerceSample\ECommerceSample\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve2\ECommerceSample\ECommerceSample\bin\roslyn\System.AppContext.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve2\ECommerceSample\ECommerceSample\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve2\ECommerceSample\ECommerceSample\bin\roslyn\System.Console.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve2\ECommerceSample\ECommerceSample\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve2\ECommerceSample\ECommerceSample\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve2\ECommerceSample\ECommerceSample\bin\roslyn\System.IO.Compression.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve2\ECommerceSample\ECommerceSample\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve2\ECommerceSample\ECommerceSample\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve2\ECommerceSample\ECommerceSample\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve2\ECommerceSample\ECommerceSample\bin\roslyn\System.IO.Pipes.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve2\ECommerceSample\ECommerceSample\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve2\ECommerceSample\ECommerceSample\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve2\ECommerceSample\ECommerceSample\bin\roslyn\System.Security.Claims.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve2\ECommerceSample\ECommerceSample\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve2\ECommerceSample\ECommerceSample\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve2\ECommerceSample\ECommerceSample\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve2\ECommerceSample\ECommerceSample\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve2\ECommerceSample\ECommerceSample\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve2\ECommerceSample\ECommerceSample\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve2\ECommerceSample\ECommerceSample\bin\roslyn\System.ValueTuple.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve2\ECommerceSample\ECommerceSample\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve2\ECommerceSample\ECommerceSample\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve2\ECommerceSample\ECommerceSample\bin\roslyn\System.Xml.XPath.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve2\ECommerceSample\ECommerceSample\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve2\ECommerceSample\ECommerceSample\bin\roslyn\vbc.exe
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve2\ECommerceSample\ECommerceSample\bin\roslyn\vbc.exe.config
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve2\ECommerceSample\ECommerceSample\bin\roslyn\vbc.rsp
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve2\ECommerceSample\ECommerceSample\bin\roslyn\VBCSCompiler.exe
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve2\ECommerceSample\ECommerceSample\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve2\ECommerceSample\ECommerceSample\bin\ECommerce.Common.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve2\ECommerceSample\ECommerceSample\bin\ECommerce.Entity.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve2\ECommerceSample\ECommerceSample\bin\ECommerce.Repository.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve2\ECommerceSample\ECommerceSample\bin\EntityFramework.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve2\ECommerceSample\ECommerceSample\bin\EntityFramework.SqlServer.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve2\ECommerceSample\ECommerceSample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve2\ECommerceSample\ECommerceSample\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve2\ECommerceSample\ECommerceSample\bin\System.Web.Helpers.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve2\ECommerceSample\ECommerceSample\bin\System.Web.Mvc.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve2\ECommerceSample\ECommerceSample\bin\System.Web.Razor.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve2\ECommerceSample\ECommerceSample\bin\System.Web.Webpages.Deployment.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve2\ECommerceSample\ECommerceSample\bin\System.Web.Webpages.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve2\ECommerceSample\ECommerceSample\bin\System.Web.Webpages.Razor.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve2\ECommerceSample\ECommerceSample\bin\ECommerce.Common.pdb
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve2\ECommerceSample\ECommerceSample\bin\ECommerce.Common.dll.config
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve2\ECommerceSample\ECommerceSample\bin\ECommerce.Entity.pdb
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve2\ECommerceSample\ECommerceSample\bin\ECommerce.Entity.dll.config
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve2\ECommerceSample\ECommerceSample\bin\ECommerce.Repository.pdb
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve2\ECommerceSample\ECommerceSample\bin\ECommerce.Repository.dll.config
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve2\ECommerceSample\ECommerceSample\bin\EntityFramework.xml
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve2\ECommerceSample\ECommerceSample\bin\EntityFramework.SqlServer.xml
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve2\ECommerceSample\ECommerceSample\bin\System.Web.Razor.xml
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve2\ECommerceSample\ECommerceSample\bin\System.Web.Webpages.xml
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve2\ECommerceSample\ECommerceSample\bin\System.Web.Webpages.Deployment.xml
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve2\ECommerceSample\ECommerceSample\bin\System.Web.Webpages.Razor.xml
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve2\ECommerceSample\ECommerceSample\bin\System.Web.Helpers.xml
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve2\ECommerceSample\ECommerceSample\bin\System.Web.Mvc.xml
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve2\ECommerceSample\ECommerceSample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve2\ECommerceSample\ECommerceSample\bin\tr\System.Web.Razor.resources.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve2\ECommerceSample\ECommerceSample\bin\tr\System.Web.Webpages.resources.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve2\ECommerceSample\ECommerceSample\bin\tr\System.Web.Webpages.Deployment.resources.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve2\ECommerceSample\ECommerceSample\bin\tr\System.Web.Webpages.Razor.resources.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve2\ECommerceSample\ECommerceSample\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve2\ECommerceSample\ECommerceSample\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve2\ECommerceSample\ECommerceSample\obj\Debug\ECommerceSample.csprojAssemblyReference.cache
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve2\ECommerceSample\ECommerceSample\obj\Debug\ECommerceSample.csproj.CoreCompileInputs.cache
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve2\ECommerceSample\ECommerceSample\obj\Debug\ECommerceSample.csproj.CopyComplete
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve2\ECommerceSample\ECommerceSample\obj\Debug\ECommerceSample.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve2\ECommerceSample\ECommerceSample\obj\Debug\ECommerceSample.pdb
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 3\ECommerceSample\ECommerceSample\bin\ECommerceSample.dll.config
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 3\ECommerceSample\ECommerceSample\bin\ECommerceSample.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 3\ECommerceSample\ECommerceSample\bin\ECommerceSample.pdb
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 3\ECommerceSample\ECommerceSample\bin\roslyn\csc.exe
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 3\ECommerceSample\ECommerceSample\bin\roslyn\csc.exe.config
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 3\ECommerceSample\ECommerceSample\bin\roslyn\csc.rsp
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 3\ECommerceSample\ECommerceSample\bin\roslyn\csi.exe
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 3\ECommerceSample\ECommerceSample\bin\roslyn\csi.exe.config
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 3\ECommerceSample\ECommerceSample\bin\roslyn\csi.rsp
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 3\ECommerceSample\ECommerceSample\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 3\ECommerceSample\ECommerceSample\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 3\ECommerceSample\ECommerceSample\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 3\ECommerceSample\ECommerceSample\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 3\ECommerceSample\ECommerceSample\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 3\ECommerceSample\ECommerceSample\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 3\ECommerceSample\ECommerceSample\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 3\ECommerceSample\ECommerceSample\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 3\ECommerceSample\ECommerceSample\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 3\ECommerceSample\ECommerceSample\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 3\ECommerceSample\ECommerceSample\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 3\ECommerceSample\ECommerceSample\bin\roslyn\System.AppContext.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 3\ECommerceSample\ECommerceSample\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 3\ECommerceSample\ECommerceSample\bin\roslyn\System.Console.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 3\ECommerceSample\ECommerceSample\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 3\ECommerceSample\ECommerceSample\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 3\ECommerceSample\ECommerceSample\bin\roslyn\System.IO.Compression.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 3\ECommerceSample\ECommerceSample\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 3\ECommerceSample\ECommerceSample\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 3\ECommerceSample\ECommerceSample\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 3\ECommerceSample\ECommerceSample\bin\roslyn\System.IO.Pipes.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 3\ECommerceSample\ECommerceSample\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 3\ECommerceSample\ECommerceSample\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 3\ECommerceSample\ECommerceSample\bin\roslyn\System.Security.Claims.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 3\ECommerceSample\ECommerceSample\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 3\ECommerceSample\ECommerceSample\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 3\ECommerceSample\ECommerceSample\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 3\ECommerceSample\ECommerceSample\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 3\ECommerceSample\ECommerceSample\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 3\ECommerceSample\ECommerceSample\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 3\ECommerceSample\ECommerceSample\bin\roslyn\System.ValueTuple.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 3\ECommerceSample\ECommerceSample\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 3\ECommerceSample\ECommerceSample\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 3\ECommerceSample\ECommerceSample\bin\roslyn\System.Xml.XPath.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 3\ECommerceSample\ECommerceSample\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 3\ECommerceSample\ECommerceSample\bin\roslyn\vbc.exe
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 3\ECommerceSample\ECommerceSample\bin\roslyn\vbc.exe.config
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 3\ECommerceSample\ECommerceSample\bin\roslyn\vbc.rsp
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 3\ECommerceSample\ECommerceSample\bin\roslyn\VBCSCompiler.exe
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 3\ECommerceSample\ECommerceSample\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 3\ECommerceSample\ECommerceSample\bin\ECommerce.Common.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 3\ECommerceSample\ECommerceSample\bin\ECommerce.Entity.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 3\ECommerceSample\ECommerceSample\bin\ECommerce.Repository.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 3\ECommerceSample\ECommerceSample\bin\EntityFramework.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 3\ECommerceSample\ECommerceSample\bin\EntityFramework.SqlServer.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 3\ECommerceSample\ECommerceSample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 3\ECommerceSample\ECommerceSample\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 3\ECommerceSample\ECommerceSample\bin\System.Web.Helpers.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 3\ECommerceSample\ECommerceSample\bin\System.Web.Mvc.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 3\ECommerceSample\ECommerceSample\bin\System.Web.Razor.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 3\ECommerceSample\ECommerceSample\bin\System.Web.Webpages.Deployment.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 3\ECommerceSample\ECommerceSample\bin\System.Web.Webpages.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 3\ECommerceSample\ECommerceSample\bin\System.Web.Webpages.Razor.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 3\ECommerceSample\ECommerceSample\bin\ECommerce.Common.pdb
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 3\ECommerceSample\ECommerceSample\bin\ECommerce.Common.dll.config
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 3\ECommerceSample\ECommerceSample\bin\ECommerce.Entity.pdb
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 3\ECommerceSample\ECommerceSample\bin\ECommerce.Entity.dll.config
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 3\ECommerceSample\ECommerceSample\bin\ECommerce.Repository.pdb
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 3\ECommerceSample\ECommerceSample\bin\ECommerce.Repository.dll.config
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 3\ECommerceSample\ECommerceSample\bin\EntityFramework.xml
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 3\ECommerceSample\ECommerceSample\bin\EntityFramework.SqlServer.xml
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 3\ECommerceSample\ECommerceSample\bin\System.Web.Razor.xml
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 3\ECommerceSample\ECommerceSample\bin\System.Web.Webpages.xml
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 3\ECommerceSample\ECommerceSample\bin\System.Web.Webpages.Deployment.xml
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 3\ECommerceSample\ECommerceSample\bin\System.Web.Webpages.Razor.xml
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 3\ECommerceSample\ECommerceSample\bin\System.Web.Helpers.xml
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 3\ECommerceSample\ECommerceSample\bin\System.Web.Mvc.xml
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 3\ECommerceSample\ECommerceSample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 3\ECommerceSample\ECommerceSample\bin\tr\System.Web.Razor.resources.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 3\ECommerceSample\ECommerceSample\bin\tr\System.Web.Webpages.resources.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 3\ECommerceSample\ECommerceSample\bin\tr\System.Web.Webpages.Deployment.resources.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 3\ECommerceSample\ECommerceSample\bin\tr\System.Web.Webpages.Razor.resources.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 3\ECommerceSample\ECommerceSample\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 3\ECommerceSample\ECommerceSample\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 3\ECommerceSample\ECommerceSample\obj\Debug\ECommerceSample.csprojAssemblyReference.cache
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 3\ECommerceSample\ECommerceSample\obj\Debug\ECommerceSample.csproj.CoreCompileInputs.cache
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 3\ECommerceSample\ECommerceSample\obj\Debug\ECommerceSample.csproj.CopyComplete
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 3\ECommerceSample\ECommerceSample\obj\Debug\ECommerceSample.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 3\ECommerceSample\ECommerceSample\obj\Debug\ECommerceSample.pdb
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 4\ECommerceSample\ECommerceSample\bin\ECommerceSample.dll.config
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 4\ECommerceSample\ECommerceSample\bin\ECommerceSample.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 4\ECommerceSample\ECommerceSample\bin\ECommerceSample.pdb
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 4\ECommerceSample\ECommerceSample\bin\roslyn\csc.exe
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 4\ECommerceSample\ECommerceSample\bin\roslyn\csc.exe.config
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 4\ECommerceSample\ECommerceSample\bin\roslyn\csc.rsp
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 4\ECommerceSample\ECommerceSample\bin\roslyn\csi.exe
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 4\ECommerceSample\ECommerceSample\bin\roslyn\csi.exe.config
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 4\ECommerceSample\ECommerceSample\bin\roslyn\csi.rsp
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 4\ECommerceSample\ECommerceSample\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 4\ECommerceSample\ECommerceSample\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 4\ECommerceSample\ECommerceSample\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 4\ECommerceSample\ECommerceSample\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 4\ECommerceSample\ECommerceSample\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 4\ECommerceSample\ECommerceSample\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 4\ECommerceSample\ECommerceSample\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 4\ECommerceSample\ECommerceSample\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 4\ECommerceSample\ECommerceSample\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 4\ECommerceSample\ECommerceSample\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 4\ECommerceSample\ECommerceSample\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 4\ECommerceSample\ECommerceSample\bin\roslyn\System.AppContext.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 4\ECommerceSample\ECommerceSample\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 4\ECommerceSample\ECommerceSample\bin\roslyn\System.Console.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 4\ECommerceSample\ECommerceSample\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 4\ECommerceSample\ECommerceSample\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 4\ECommerceSample\ECommerceSample\bin\roslyn\System.IO.Compression.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 4\ECommerceSample\ECommerceSample\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 4\ECommerceSample\ECommerceSample\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 4\ECommerceSample\ECommerceSample\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 4\ECommerceSample\ECommerceSample\bin\roslyn\System.IO.Pipes.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 4\ECommerceSample\ECommerceSample\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 4\ECommerceSample\ECommerceSample\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 4\ECommerceSample\ECommerceSample\bin\roslyn\System.Security.Claims.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 4\ECommerceSample\ECommerceSample\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 4\ECommerceSample\ECommerceSample\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 4\ECommerceSample\ECommerceSample\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 4\ECommerceSample\ECommerceSample\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 4\ECommerceSample\ECommerceSample\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 4\ECommerceSample\ECommerceSample\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 4\ECommerceSample\ECommerceSample\bin\roslyn\System.ValueTuple.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 4\ECommerceSample\ECommerceSample\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 4\ECommerceSample\ECommerceSample\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 4\ECommerceSample\ECommerceSample\bin\roslyn\System.Xml.XPath.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 4\ECommerceSample\ECommerceSample\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 4\ECommerceSample\ECommerceSample\bin\roslyn\vbc.exe
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 4\ECommerceSample\ECommerceSample\bin\roslyn\vbc.exe.config
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 4\ECommerceSample\ECommerceSample\bin\roslyn\vbc.rsp
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 4\ECommerceSample\ECommerceSample\bin\roslyn\VBCSCompiler.exe
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 4\ECommerceSample\ECommerceSample\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 4\ECommerceSample\ECommerceSample\bin\ECommerce.Common.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 4\ECommerceSample\ECommerceSample\bin\ECommerce.Entity.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 4\ECommerceSample\ECommerceSample\bin\ECommerce.Repository.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 4\ECommerceSample\ECommerceSample\bin\EntityFramework.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 4\ECommerceSample\ECommerceSample\bin\EntityFramework.SqlServer.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 4\ECommerceSample\ECommerceSample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 4\ECommerceSample\ECommerceSample\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 4\ECommerceSample\ECommerceSample\bin\System.Web.Helpers.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 4\ECommerceSample\ECommerceSample\bin\System.Web.Mvc.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 4\ECommerceSample\ECommerceSample\bin\System.Web.Razor.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 4\ECommerceSample\ECommerceSample\bin\System.Web.Webpages.Deployment.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 4\ECommerceSample\ECommerceSample\bin\System.Web.Webpages.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 4\ECommerceSample\ECommerceSample\bin\System.Web.Webpages.Razor.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 4\ECommerceSample\ECommerceSample\bin\ECommerce.Common.pdb
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 4\ECommerceSample\ECommerceSample\bin\ECommerce.Common.dll.config
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 4\ECommerceSample\ECommerceSample\bin\ECommerce.Entity.pdb
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 4\ECommerceSample\ECommerceSample\bin\ECommerce.Entity.dll.config
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 4\ECommerceSample\ECommerceSample\bin\ECommerce.Repository.pdb
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 4\ECommerceSample\ECommerceSample\bin\ECommerce.Repository.dll.config
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 4\ECommerceSample\ECommerceSample\bin\EntityFramework.xml
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 4\ECommerceSample\ECommerceSample\bin\EntityFramework.SqlServer.xml
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 4\ECommerceSample\ECommerceSample\bin\System.Web.Razor.xml
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 4\ECommerceSample\ECommerceSample\bin\System.Web.Webpages.xml
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 4\ECommerceSample\ECommerceSample\bin\System.Web.Webpages.Deployment.xml
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 4\ECommerceSample\ECommerceSample\bin\System.Web.Webpages.Razor.xml
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 4\ECommerceSample\ECommerceSample\bin\System.Web.Helpers.xml
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 4\ECommerceSample\ECommerceSample\bin\System.Web.Mvc.xml
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 4\ECommerceSample\ECommerceSample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 4\ECommerceSample\ECommerceSample\bin\tr\System.Web.Razor.resources.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 4\ECommerceSample\ECommerceSample\bin\tr\System.Web.Webpages.resources.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 4\ECommerceSample\ECommerceSample\bin\tr\System.Web.Webpages.Deployment.resources.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 4\ECommerceSample\ECommerceSample\bin\tr\System.Web.Webpages.Razor.resources.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 4\ECommerceSample\ECommerceSample\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 4\ECommerceSample\ECommerceSample\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 4\ECommerceSample\ECommerceSample\obj\Debug\ECommerceSample.csprojAssemblyReference.cache
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 4\ECommerceSample\ECommerceSample\obj\Debug\ECommerceSample.csproj.CoreCompileInputs.cache
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 4\ECommerceSample\ECommerceSample\obj\Debug\ECommerceSample.csproj.CopyComplete
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 4\ECommerceSample\ECommerceSample\obj\Debug\ECommerceSample.dll
+C:\Users\mgokpinar\Desktop\WEBEXAM\Merve 4\ECommerceSample\ECommerceSample\obj\Debug\ECommerceSample.pdb
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve v.2\ECommerceSample\ECommerceSample\bin\ECommerceSample.dll.config
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve v.2\ECommerceSample\ECommerceSample\bin\ECommerceSample.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve v.2\ECommerceSample\ECommerceSample\bin\ECommerceSample.pdb
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve v.2\ECommerceSample\ECommerceSample\bin\roslyn\csc.exe
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve v.2\ECommerceSample\ECommerceSample\bin\roslyn\csc.exe.config
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve v.2\ECommerceSample\ECommerceSample\bin\roslyn\csc.rsp
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve v.2\ECommerceSample\ECommerceSample\bin\roslyn\csi.exe
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve v.2\ECommerceSample\ECommerceSample\bin\roslyn\csi.exe.config
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve v.2\ECommerceSample\ECommerceSample\bin\roslyn\csi.rsp
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve v.2\ECommerceSample\ECommerceSample\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve v.2\ECommerceSample\ECommerceSample\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve v.2\ECommerceSample\ECommerceSample\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve v.2\ECommerceSample\ECommerceSample\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve v.2\ECommerceSample\ECommerceSample\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve v.2\ECommerceSample\ECommerceSample\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve v.2\ECommerceSample\ECommerceSample\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve v.2\ECommerceSample\ECommerceSample\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve v.2\ECommerceSample\ECommerceSample\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve v.2\ECommerceSample\ECommerceSample\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve v.2\ECommerceSample\ECommerceSample\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve v.2\ECommerceSample\ECommerceSample\bin\roslyn\System.AppContext.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve v.2\ECommerceSample\ECommerceSample\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve v.2\ECommerceSample\ECommerceSample\bin\roslyn\System.Console.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve v.2\ECommerceSample\ECommerceSample\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve v.2\ECommerceSample\ECommerceSample\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve v.2\ECommerceSample\ECommerceSample\bin\roslyn\System.IO.Compression.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve v.2\ECommerceSample\ECommerceSample\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve v.2\ECommerceSample\ECommerceSample\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve v.2\ECommerceSample\ECommerceSample\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve v.2\ECommerceSample\ECommerceSample\bin\roslyn\System.IO.Pipes.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve v.2\ECommerceSample\ECommerceSample\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve v.2\ECommerceSample\ECommerceSample\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve v.2\ECommerceSample\ECommerceSample\bin\roslyn\System.Security.Claims.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve v.2\ECommerceSample\ECommerceSample\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve v.2\ECommerceSample\ECommerceSample\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve v.2\ECommerceSample\ECommerceSample\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve v.2\ECommerceSample\ECommerceSample\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve v.2\ECommerceSample\ECommerceSample\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve v.2\ECommerceSample\ECommerceSample\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve v.2\ECommerceSample\ECommerceSample\bin\roslyn\System.ValueTuple.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve v.2\ECommerceSample\ECommerceSample\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve v.2\ECommerceSample\ECommerceSample\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve v.2\ECommerceSample\ECommerceSample\bin\roslyn\System.Xml.XPath.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve v.2\ECommerceSample\ECommerceSample\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve v.2\ECommerceSample\ECommerceSample\bin\roslyn\vbc.exe
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve v.2\ECommerceSample\ECommerceSample\bin\roslyn\vbc.exe.config
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve v.2\ECommerceSample\ECommerceSample\bin\roslyn\vbc.rsp
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve v.2\ECommerceSample\ECommerceSample\bin\roslyn\VBCSCompiler.exe
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve v.2\ECommerceSample\ECommerceSample\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve v.2\ECommerceSample\ECommerceSample\bin\ECommerce.Common.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve v.2\ECommerceSample\ECommerceSample\bin\ECommerce.Entity.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve v.2\ECommerceSample\ECommerceSample\bin\ECommerce.Repository.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve v.2\ECommerceSample\ECommerceSample\bin\EntityFramework.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve v.2\ECommerceSample\ECommerceSample\bin\EntityFramework.SqlServer.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve v.2\ECommerceSample\ECommerceSample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve v.2\ECommerceSample\ECommerceSample\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve v.2\ECommerceSample\ECommerceSample\bin\System.Web.Helpers.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve v.2\ECommerceSample\ECommerceSample\bin\System.Web.Mvc.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve v.2\ECommerceSample\ECommerceSample\bin\System.Web.Razor.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve v.2\ECommerceSample\ECommerceSample\bin\System.Web.Webpages.Deployment.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve v.2\ECommerceSample\ECommerceSample\bin\System.Web.Webpages.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve v.2\ECommerceSample\ECommerceSample\bin\System.Web.Webpages.Razor.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve v.2\ECommerceSample\ECommerceSample\bin\ECommerce.Common.pdb
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve v.2\ECommerceSample\ECommerceSample\bin\ECommerce.Common.dll.config
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve v.2\ECommerceSample\ECommerceSample\bin\ECommerce.Entity.pdb
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve v.2\ECommerceSample\ECommerceSample\bin\ECommerce.Entity.dll.config
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve v.2\ECommerceSample\ECommerceSample\bin\ECommerce.Repository.pdb
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve v.2\ECommerceSample\ECommerceSample\bin\ECommerce.Repository.dll.config
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve v.2\ECommerceSample\ECommerceSample\bin\EntityFramework.xml
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve v.2\ECommerceSample\ECommerceSample\bin\EntityFramework.SqlServer.xml
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve v.2\ECommerceSample\ECommerceSample\bin\System.Web.Razor.xml
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve v.2\ECommerceSample\ECommerceSample\bin\System.Web.Webpages.xml
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve v.2\ECommerceSample\ECommerceSample\bin\System.Web.Webpages.Deployment.xml
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve v.2\ECommerceSample\ECommerceSample\bin\System.Web.Webpages.Razor.xml
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve v.2\ECommerceSample\ECommerceSample\bin\System.Web.Helpers.xml
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve v.2\ECommerceSample\ECommerceSample\bin\System.Web.Mvc.xml
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve v.2\ECommerceSample\ECommerceSample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve v.2\ECommerceSample\ECommerceSample\bin\tr\System.Web.Razor.resources.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve v.2\ECommerceSample\ECommerceSample\bin\tr\System.Web.Webpages.resources.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve v.2\ECommerceSample\ECommerceSample\bin\tr\System.Web.Webpages.Deployment.resources.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve v.2\ECommerceSample\ECommerceSample\bin\tr\System.Web.Webpages.Razor.resources.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve v.2\ECommerceSample\ECommerceSample\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve v.2\ECommerceSample\ECommerceSample\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve v.2\ECommerceSample\ECommerceSample\obj\Debug\ECommerceSample.csprojAssemblyReference.cache
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve v.2\ECommerceSample\ECommerceSample\obj\Debug\ECommerceSample.csproj.CoreCompileInputs.cache
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve v.2\ECommerceSample\ECommerceSample\obj\Debug\ECommerceSample.csproj.CopyComplete
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve v.2\ECommerceSample\ECommerceSample\obj\Debug\ECommerceSample.dll
+C:\Users\MERVE\Desktop\ETİCARET PROJESİ\Merve v.2\ECommerceSample\ECommerceSample\obj\Debug\ECommerceSample.pdb
+C:\Users\MERVE\Desktop\webexam\ECommerceSample\ECommerceSample\bin\ECommerceSample.dll.config
+C:\Users\MERVE\Desktop\webexam\ECommerceSample\ECommerceSample\bin\ECommerceSample.dll
+C:\Users\MERVE\Desktop\webexam\ECommerceSample\ECommerceSample\bin\ECommerceSample.pdb
+C:\Users\MERVE\Desktop\webexam\ECommerceSample\ECommerceSample\bin\roslyn\csc.exe
+C:\Users\MERVE\Desktop\webexam\ECommerceSample\ECommerceSample\bin\roslyn\csc.exe.config
+C:\Users\MERVE\Desktop\webexam\ECommerceSample\ECommerceSample\bin\roslyn\csc.rsp
+C:\Users\MERVE\Desktop\webexam\ECommerceSample\ECommerceSample\bin\roslyn\csi.exe
+C:\Users\MERVE\Desktop\webexam\ECommerceSample\ECommerceSample\bin\roslyn\csi.exe.config
+C:\Users\MERVE\Desktop\webexam\ECommerceSample\ECommerceSample\bin\roslyn\csi.rsp
+C:\Users\MERVE\Desktop\webexam\ECommerceSample\ECommerceSample\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MERVE\Desktop\webexam\ECommerceSample\ECommerceSample\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MERVE\Desktop\webexam\ECommerceSample\ECommerceSample\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\MERVE\Desktop\webexam\ECommerceSample\ECommerceSample\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MERVE\Desktop\webexam\ECommerceSample\ECommerceSample\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\MERVE\Desktop\webexam\ECommerceSample\ECommerceSample\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MERVE\Desktop\webexam\ECommerceSample\ECommerceSample\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MERVE\Desktop\webexam\ECommerceSample\ECommerceSample\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\MERVE\Desktop\webexam\ECommerceSample\ECommerceSample\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\MERVE\Desktop\webexam\ECommerceSample\ECommerceSample\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\MERVE\Desktop\webexam\ECommerceSample\ECommerceSample\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MERVE\Desktop\webexam\ECommerceSample\ECommerceSample\bin\roslyn\System.AppContext.dll
+C:\Users\MERVE\Desktop\webexam\ECommerceSample\ECommerceSample\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MERVE\Desktop\webexam\ECommerceSample\ECommerceSample\bin\roslyn\System.Console.dll
+C:\Users\MERVE\Desktop\webexam\ECommerceSample\ECommerceSample\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\MERVE\Desktop\webexam\ECommerceSample\ECommerceSample\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\MERVE\Desktop\webexam\ECommerceSample\ECommerceSample\bin\roslyn\System.IO.Compression.dll
+C:\Users\MERVE\Desktop\webexam\ECommerceSample\ECommerceSample\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\MERVE\Desktop\webexam\ECommerceSample\ECommerceSample\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\MERVE\Desktop\webexam\ECommerceSample\ECommerceSample\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\MERVE\Desktop\webexam\ECommerceSample\ECommerceSample\bin\roslyn\System.IO.Pipes.dll
+C:\Users\MERVE\Desktop\webexam\ECommerceSample\ECommerceSample\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MERVE\Desktop\webexam\ECommerceSample\ECommerceSample\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\MERVE\Desktop\webexam\ECommerceSample\ECommerceSample\bin\roslyn\System.Security.Claims.dll
+C:\Users\MERVE\Desktop\webexam\ECommerceSample\ECommerceSample\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\MERVE\Desktop\webexam\ECommerceSample\ECommerceSample\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\MERVE\Desktop\webexam\ECommerceSample\ECommerceSample\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\MERVE\Desktop\webexam\ECommerceSample\ECommerceSample\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\MERVE\Desktop\webexam\ECommerceSample\ECommerceSample\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\MERVE\Desktop\webexam\ECommerceSample\ECommerceSample\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\MERVE\Desktop\webexam\ECommerceSample\ECommerceSample\bin\roslyn\System.ValueTuple.dll
+C:\Users\MERVE\Desktop\webexam\ECommerceSample\ECommerceSample\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\MERVE\Desktop\webexam\ECommerceSample\ECommerceSample\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\MERVE\Desktop\webexam\ECommerceSample\ECommerceSample\bin\roslyn\System.Xml.XPath.dll
+C:\Users\MERVE\Desktop\webexam\ECommerceSample\ECommerceSample\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\MERVE\Desktop\webexam\ECommerceSample\ECommerceSample\bin\roslyn\vbc.exe
+C:\Users\MERVE\Desktop\webexam\ECommerceSample\ECommerceSample\bin\roslyn\vbc.exe.config
+C:\Users\MERVE\Desktop\webexam\ECommerceSample\ECommerceSample\bin\roslyn\vbc.rsp
+C:\Users\MERVE\Desktop\webexam\ECommerceSample\ECommerceSample\bin\roslyn\VBCSCompiler.exe
+C:\Users\MERVE\Desktop\webexam\ECommerceSample\ECommerceSample\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MERVE\Desktop\webexam\ECommerceSample\ECommerceSample\bin\ECommerce.Common.dll
+C:\Users\MERVE\Desktop\webexam\ECommerceSample\ECommerceSample\bin\ECommerce.Entity.dll
+C:\Users\MERVE\Desktop\webexam\ECommerceSample\ECommerceSample\bin\ECommerce.Repository.dll
+C:\Users\MERVE\Desktop\webexam\ECommerceSample\ECommerceSample\bin\EntityFramework.dll
+C:\Users\MERVE\Desktop\webexam\ECommerceSample\ECommerceSample\bin\EntityFramework.SqlServer.dll
+C:\Users\MERVE\Desktop\webexam\ECommerceSample\ECommerceSample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MERVE\Desktop\webexam\ECommerceSample\ECommerceSample\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MERVE\Desktop\webexam\ECommerceSample\ECommerceSample\bin\System.Web.Helpers.dll
+C:\Users\MERVE\Desktop\webexam\ECommerceSample\ECommerceSample\bin\System.Web.Mvc.dll
+C:\Users\MERVE\Desktop\webexam\ECommerceSample\ECommerceSample\bin\System.Web.Razor.dll
+C:\Users\MERVE\Desktop\webexam\ECommerceSample\ECommerceSample\bin\System.Web.Webpages.Deployment.dll
+C:\Users\MERVE\Desktop\webexam\ECommerceSample\ECommerceSample\bin\System.Web.Webpages.dll
+C:\Users\MERVE\Desktop\webexam\ECommerceSample\ECommerceSample\bin\System.Web.Webpages.Razor.dll
+C:\Users\MERVE\Desktop\webexam\ECommerceSample\ECommerceSample\bin\ECommerce.Common.pdb
+C:\Users\MERVE\Desktop\webexam\ECommerceSample\ECommerceSample\bin\ECommerce.Common.dll.config
+C:\Users\MERVE\Desktop\webexam\ECommerceSample\ECommerceSample\bin\ECommerce.Entity.pdb
+C:\Users\MERVE\Desktop\webexam\ECommerceSample\ECommerceSample\bin\ECommerce.Entity.dll.config
+C:\Users\MERVE\Desktop\webexam\ECommerceSample\ECommerceSample\bin\ECommerce.Repository.pdb
+C:\Users\MERVE\Desktop\webexam\ECommerceSample\ECommerceSample\bin\ECommerce.Repository.dll.config
+C:\Users\MERVE\Desktop\webexam\ECommerceSample\ECommerceSample\bin\EntityFramework.xml
+C:\Users\MERVE\Desktop\webexam\ECommerceSample\ECommerceSample\bin\EntityFramework.SqlServer.xml
+C:\Users\MERVE\Desktop\webexam\ECommerceSample\ECommerceSample\bin\System.Web.Razor.xml
+C:\Users\MERVE\Desktop\webexam\ECommerceSample\ECommerceSample\bin\System.Web.Webpages.xml
+C:\Users\MERVE\Desktop\webexam\ECommerceSample\ECommerceSample\bin\System.Web.Webpages.Deployment.xml
+C:\Users\MERVE\Desktop\webexam\ECommerceSample\ECommerceSample\bin\System.Web.Webpages.Razor.xml
+C:\Users\MERVE\Desktop\webexam\ECommerceSample\ECommerceSample\bin\System.Web.Helpers.xml
+C:\Users\MERVE\Desktop\webexam\ECommerceSample\ECommerceSample\bin\System.Web.Mvc.xml
+C:\Users\MERVE\Desktop\webexam\ECommerceSample\ECommerceSample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MERVE\Desktop\webexam\ECommerceSample\ECommerceSample\bin\tr\System.Web.Razor.resources.dll
+C:\Users\MERVE\Desktop\webexam\ECommerceSample\ECommerceSample\bin\tr\System.Web.Webpages.resources.dll
+C:\Users\MERVE\Desktop\webexam\ECommerceSample\ECommerceSample\bin\tr\System.Web.Webpages.Deployment.resources.dll
+C:\Users\MERVE\Desktop\webexam\ECommerceSample\ECommerceSample\bin\tr\System.Web.Webpages.Razor.resources.dll
+C:\Users\MERVE\Desktop\webexam\ECommerceSample\ECommerceSample\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\MERVE\Desktop\webexam\ECommerceSample\ECommerceSample\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\MERVE\Desktop\webexam\ECommerceSample\ECommerceSample\obj\Debug\ECommerceSample.csprojAssemblyReference.cache
+C:\Users\MERVE\Desktop\webexam\ECommerceSample\ECommerceSample\obj\Debug\ECommerceSample.csproj.CoreCompileInputs.cache
+C:\Users\MERVE\Desktop\webexam\ECommerceSample\ECommerceSample\obj\Debug\ECommerceSample.csproj.CopyComplete
+C:\Users\MERVE\Desktop\webexam\ECommerceSample\ECommerceSample\obj\Debug\ECommerceSample.dll
+C:\Users\MERVE\Desktop\webexam\ECommerceSample\ECommerceSample\obj\Debug\ECommerceSample.pdb
